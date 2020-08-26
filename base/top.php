@@ -12,7 +12,7 @@
                     </div>
                     <div class="top-right clearfix">
                         <ul class="clearfix right-info">
-                            <li><i class="icon flaticon-clock-circular-outline"></i> Seg - Sex: 08:00 - 18:00 </li>
+                            <li><i class="icon flaticon-clock-circular-outline"></i> Seg - Qui: 08:00 - 18:00 / Sex - 08:00 - 17:00 </li>
                         </ul>
                         <div class="language dropdownn">
                             <a class="btn btn-default dropdown-toggle" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true" href="#"><span class="icon flaticon-globe"></span> Brasil <i class="fa fa-angle-down"></i></a>

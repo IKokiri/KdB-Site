@@ -10,7 +10,7 @@ include_once "./base/header.php";
 include_once "./base/top.php";
 ?>
 <?php
-// include_once "./base/nav.php";
+include_once "./base/nav.php";
 ?>
        
 </header>
