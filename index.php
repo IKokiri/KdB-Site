@@ -31,7 +31,7 @@ include_once "./base/about.php";
 ?>
 
 <?php
-// include_once "./base/bootom.php";
+include_once "./base/bootom.php";
 ?>
 <?php
 include_once "./base/footer.php";

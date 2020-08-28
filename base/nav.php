@@ -76,7 +76,7 @@
             <div class="auto-container clearfix">
                 <!--Logo-->
                 <div class="logo pull-left">
-                    <a href="index.html" class="img-responsive"><img src="imgs/logo/logo.png" alt="" title=""></a>
+                    <a href="index.php" class="img-responsive"><img src="imgs/logo/logo.png" alt="" title=""></a>
                 </div>
                 <!--Right Col-->
                 <div class="right-col pull-right">
