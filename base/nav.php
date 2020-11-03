@@ -45,13 +45,13 @@
                                 </li>
                                 <li class="dropdown menutopo"><a href="#">Sobre Nós</a>
                                     <ul>
-                                        <li class="sublink"><a href="#">História</a></li>
-                                        <li class="sublink"><a href="#">Grupo Kuttner</a></li>
-                                        <li class="sublink"><a href="#">Kuttner no Mundo</a></li>
-                                        <li class="sublink"><a href="#">Kuttner Alemanha</a></li>
-                                        <li class="sublink"><a href="#">Kuttner do Brasil</a></li>
-                                        <li class="sublink"><a href="#">Políticas da Qualidade</a></li>
-                                        <li class="sublink"><a href="#">Gestão</a></li>
+                                        <li class="sublink"><a href="about.php">História</a></li>
+                                        <li class="sublink"><a href="about.php">Grupo Kuttner</a></li>
+                                        <li class="sublink"><a href="about.php">Kuttner no Mundo</a></li>
+                                        <li class="sublink"><a href="about.php">Kuttner Alemanha</a></li>
+                                        <li class="sublink"><a href="about.php">Kuttner do Brasil</a></li>
+                                        <li class="sublink"><a href="about.php">Políticas da Qualidade</a></li>
+                                        <li class="sublink"><a href="about.php">Gestão</a></li>
                                     </ul>
                                 </li>
                                 <li class="menutopo"><a href="#">Tecnologias</a>
@@ -60,7 +60,7 @@
                                 </li>
                                 <li class="menutopo"><a href="catalogos.php">Catálogos</a>
                                 </li>
-                                <li class="menutopo"><a href="#">Contato</a>
+                                <li class="menutopo"><a href="contato.php">Contato</a>
                                 </li>
                             </ul>
                         </div>

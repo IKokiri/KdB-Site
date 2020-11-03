@@ -31,19 +31,19 @@ include_once "./base/banner.php";
     border-top: 1px solid;
 }
 
-.automacaoeletrica:hover .content-box h4 a {
+.automacaoeletrica:hover .content-box h4 span {
     color: #444;
 }
-.siderurgia:hover .content-box h4 a {
+.siderurgia:hover .content-box h4 span {
     color: #0e3264;
 }
-.meioambiente:hover .content-box h4 a {
+.meioambiente:hover .content-box h4 span {
     color: #42a62a;
 }
-.fundicao:hover .content-box h4 a {
+.fundicao:hover .content-box h4 span {
     color: #f05000;
 }
-.mineracao:hover .content-box h4 a {
+.mineracao:hover .content-box h4 span {
     color: #d2191e;
 }
 .project-block-two .image-box .overlay-box:before {
