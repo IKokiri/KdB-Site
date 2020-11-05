@@ -7,6 +7,7 @@
                         <h4>Kuttner</h4>
                         <h2>Sobre nós</h2>
                     </div>
+                    
                     <div class="about-company">
                         <h4>A Kuttner do Brasil se estabeleceu no Brasil a partir de 1974. </h4>
                         <div class="info-tabs tabs-box">
