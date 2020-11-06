@@ -37,7 +37,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="link-box"><a href="market-sector-single.html"><i class="machinery-icon-next"></i>Ver Mais</a></div>
+                        <div class="link-box"><a href="about.php#aboutkuttner"><i class="machinery-icon-next"></i>Ver Mais</a></div>
                     </div>
                 </div>
 

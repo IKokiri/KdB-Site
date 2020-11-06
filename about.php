@@ -23,30 +23,34 @@ include_once "./base/banner.php";
 ?>
 
     <!-- About Us -->
-    <section class="about-section-two">
+    <section class="about-section-two" id="aboutkuttner">
         <div class="auto-container">
-            <div class="outer-box clearfix" style="background-image:url(/imgs/banner/kuttner.webp);">
+            <div class="outer-box clearfix" style="background-image:url(imgs/banner/kuttner.webp);">
                 <div class="highlight-box">
                     <div class="info-carousel owl-carousel owl-theme">
                         <!-- About Block -->
                         <div class="about-block-two">
-                            <div class="icon-box"><span class="icon flaticon-house"></span></div>
-                            <h3>ISO Cerfitied Company</h3>
-                            <div class="text">Explain to you how this mistaken denouncing pleasure and praising pain was born & will give complete account of the system.</div>
+                            <div class="icon-box">
+                            <div class="link-box"><a href="docs/iso/iso_9001_kuttnerbrasil.pdf" target="_blank"><i class="fa fa-download"></i> Donwload</a></div>
+                            </div>
+                            <h3>Certificado ISO 9001</h3>
+                            <div class="text">
+                            Qualidade é o compromisso da KUTTNER e obrigação de cada um dos colaboradores.
+                            </div>
                         </div>
 
                         <!-- About Block -->
                         <div class="about-block-two">
                             <div class="icon-box"><span class="icon flaticon-house"></span></div>
-                            <h3>Smart Technology</h3>
-                            <div class="text">Explain to you how this mistaken denouncing pleasure and praising pain was born & will give complete account of the system.</div>
+                            <div class="text">
+                            Qualidade para a KUTTNER é o atendimento aos requisitos do cliente, buscando satisfação do mesmo, bem como dos acionistas, fornecedores, colaboradores e meio ambiente.</div>
                         </div>
 
                         <!-- About Block -->
                         <div class="about-block-two">
                             <div class="icon-box"><span class="icon flaticon-house"></span></div>
-                            <h3>Team of Professionals</h3>
-                            <div class="text">Explain to you how this mistaken denouncing pleasure and praising pain was born & will give complete account of the system.</div>
+                            <div class="text">
+                            Qualidade exige o compromisso de cada um, através da melhoria contínua da eficácia do Sistema da Qualidade.</div>
                         </div>
                     </div>
                 </div>
