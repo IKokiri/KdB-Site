@@ -64,11 +64,16 @@ include_once "./base/banner.php";
             <div class="row clearfix">
                 <div class="content-column col-md-6 col-sm-12 col-xs-12">
                     <div class="inner-column">
-                        <h3>We are leading manufacturing company in european countries.</h3>
                         <div class="text">
-                            <p>Built enviable reputation in consumer goods, heavy industry, high tech, manufacturing, medical, vehicle  our  works sectors multi disciplinary team of engineering & experts, who  pursues desires obtains pains itself  there anyone loves or pursues desires  obtain except to obtain some advantages from it? But who has any right to find fault.</p>
-
-                            <p>Idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness.</p>
+                            <p>
+                                A Kuttner Holding com sede em Essen/Alemanha foi fundado no ano de 1949 pelo Engenheiro Dr. Carl Kuttner, sendo hoje um Grupo empresarial internacional com atividades na Europa, Ásia, América do Norte e América do Sul, dedicado à engenharia e fornecimento de instalações industriais “Turn Key”, principalmente para a indústria siderúrgica e de fundição.
+                            </p>
+                            <p>
+                                O GRUPO Kuttner ocupa uma posição de líder no desenvolvimento e na implementação de tecnologias inovadoras nas áreas de matérias primas, energéticas e de meio ambiente, projetadas para economizar energia, reduzir o impacto sobre o meio ambiente e otimizar o ciclo dos materiais.
+                            </p>
+                            <p>
+                                No Brasil, o GRUPO Kuttner está presente através de suas afiliadas Kuttner do Brasil em Contagem/MG e Kuttner No-Bake Solutions em Piracicaba/SP.
+                            </p>
                         </div>
                     </div>
                 </div>
@@ -210,11 +215,10 @@ include_once "./base/banner.php";
             <div class="row clearfix">
                 <div class="content-column col-md-6 col-sm-12 col-xs-12">
                     <div class="inner-column">
-                        <h3>We are leading manufacturing company in european countries.</h3>
                         <div class="text">
-                            <p>Built enviable reputation in consumer goods, heavy industry, high tech, manufacturing, medical, vehicle  our  works sectors multi disciplinary team of engineering & experts, who  pursues desires obtains pains itself  there anyone loves or pursues desires  obtain except to obtain some advantages from it? But who has any right to find fault.</p>
-
-                            <p>Idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness.</p>
+                            <p>
+                            Kuttner no mundo
+                            </p>
                         </div>
                     </div>
                 </div>
@@ -231,11 +235,10 @@ include_once "./base/banner.php";
             <div class="row clearfix">
                 <div class="content-column col-md-6 col-sm-12 col-xs-12">
                     <div class="inner-column">
-                        <h3>We are leading manufacturing company in european countries.</h3>
                         <div class="text">
-                            <p>Built enviable reputation in consumer goods, heavy industry, high tech, manufacturing, medical, vehicle  our  works sectors multi disciplinary team of engineering & experts, who  pursues desires obtains pains itself  there anyone loves or pursues desires  obtain except to obtain some advantages from it? But who has any right to find fault.</p>
-
-                            <p>Idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness.</p>
+                        <p>
+                            Kuttner Alemanha
+                        </p>
                         </div>
                     </div>
                 </div>
@@ -252,11 +255,20 @@ include_once "./base/banner.php";
             <div class="row clearfix">
                 <div class="content-column col-md-6 col-sm-12 col-xs-12">
                     <div class="inner-column">
-                        <h3>We are leading manufacturing company in european countries.</h3>
+                        <h3>Interdisciplinary Work. One group.</h3>
                         <div class="text">
-                            <p>Built enviable reputation in consumer goods, heavy industry, high tech, manufacturing, medical, vehicle  our  works sectors multi disciplinary team of engineering & experts, who  pursues desires obtains pains itself  there anyone loves or pursues desires  obtain except to obtain some advantages from it? But who has any right to find fault.</p>
-
-                            <p>Idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness.</p>
+                            <p>
+                                Kuttner do Brasil, fornecedora tradicional de equipamentos e instalações para a indústria siderúrgica e de fundição, mineração e meio ambiente, é uma empresa afiliada ao GRUPO Kuttner da Alemanha com atividades na Europa, Ásia e Américas.
+                            </p>
+                            <p>
+                                Fundada em 1974 tem sede em Contagem – MG, de onde atende aos mercados do Brasil e América do Sul.
+                            </p>
+                            <p>
+                                A combinação entre network global, know-how e experiência de mercado, faz da Kuttner do Brasil a parceira ideal para a realização de projetos industriais.
+                            </p>
+                            <p>
+                                A gama de atividades compreende o desenvolvimento de tecnologias, a engenharia, o projeto, o fornecimento, a montagem e a colocação em funcionamento de instalações completas, incluindo, equipamentos mecânicos e elétricos, assim como, sistemas de automação e supervisão de processos, em conformidade com as necessidades específicas de cada cliente.
+                            </p>
                         </div>
                     </div>
                 </div>
