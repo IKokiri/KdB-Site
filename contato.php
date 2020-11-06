@@ -21,339 +21,439 @@ include_once "./base/nav.php";
 <?php
 include_once "./base/banner.php";
 ?>
-<style>
-.image-box {
-    margin-bottom:10px;
-    border-bottom: 1px solid;
-    border-top: 1px solid;
-}
 
-</style>
-
-
-
-<section class="projects-section-two">
+<!-- Contact Section Two -->
+<section class="contact-section-two">
         <div class="auto-container">
+            <div class="sec-title">
+                <h2>Contatos</h2>
+                <div class="text">Presente em mais de 10 países.</div>
+            </div>
+            <div class="row clearfix">
+                <div class="carousel-column col-md-7 col-sm-12 col-xs-12">
+                    <div class="inner-column">
+                        <div class="branches-carousel owl-carousel owl-theme">
+                            <div class="slide">
+                                <div class="branch-info-box">
+                                    <div class="row clearfix">
+                                        <div class="image-column col-md-6 col-sm-6 col-xs-12">
+                                            <div class="image"><a href="#"><img src="images/resource/branch-1.jpg" alt=""></a></div>
+                                        </div>
+                                        <div class="info-column col-md-6 col-sm-6 col-xs-12">
+                                            <div class="lucation">Kuttner do Brasil</div>
+                                            <ul>
+                                                <li>
+                                                    <span class="icon flaticon-place"></span>
+                                                    <h5>Rua Santiago Ballesteros, 610</h5>
+                                                    <p>CINCO, Contagem - MG</p>
+                                                </li>
 
-             <!--MixitUp Galery-->
-            <div class="mixitup-gallery">
-                <div class="inner-container clearfix">
-                    <!--Filter-->
-                    <div class="filters text-center clearfix">                     
-                        <ul class="filter-tabs filter-btns clearfix">
-                            <li class="filter active" data-role="button" data-filter="all">Todos</li>
-                            <li class="filter" data-role="button" data-filter=".brasil">Brasil</li>
-                            <li class="filter" data-role="button" data-filter=".americalatina">América Latina</li>
-                            <li class="filter" data-role="button" data-filter=".europa">Europa</li>
-                            <li class="filter" data-role="button" data-filter=".mundo">No Mundo</li>
-                        </ul>
+                                                <li>
+                                                    <span class="icon flaticon-support"></span>
+                                                    <h5>Jorg Hagedorn</h5>
+                                                    <p><a href="#">+55 31 3399 7200</a></p>
+                                                </li>
+
+                                                <li>
+                                                    <span class="icon flaticon-plane"></span>
+                                                    <h5>E-Mail</h5>
+                                                    <p><a href="#">kuttner@kuttner.com.br</a></p>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="branch-info-box">
+                                    <div class="row clearfix">
+                                        <div class="image-column col-md-6 col-sm-6 col-xs-12">
+                                            <div class="image"><a href="#"><img src="images/resource/branch-1.jpg" alt=""></a></div>
+                                        </div>
+                                        <div class="info-column col-md-6 col-sm-6 col-xs-12">
+                                            <div class="lucation">Kuttner No-Bake Solutions</div>
+                                            <ul>
+                                                <li>
+                                                    <span class="icon flaticon-place"></span>
+                                                    <h5>Rua Abelardo Benedicto Libório, 951</h5>
+                                                    <p>Libéria, Piracicaba - SP</p>
+                                                </li>
+
+                                                <li>
+                                                    <span class="icon flaticon-support"></span>
+                                                    <h5>Sérgio Perdrozo</h5>
+                                                    <p><a href="#">+55 19 3302 4770</a></p>
+                                                </li>
+
+                                                <li>
+                                                    <span class="icon flaticon-plane"></span>
+                                                    <h5>E-Mail</h5>
+                                                    <p><a href="#">s.pedrozo@kuttner-nbs.com.br</a></p>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="branch-info-box">
+                                    <div class="row clearfix">
+                                        <div class="image-column col-md-6 col-sm-6 col-xs-12">
+                                            <div class="image"><a href="#"><img src="images/resource/branch-1.jpg" alt=""></a></div>
+                                        </div>
+                                        <div class="info-column col-md-6 col-sm-6 col-xs-12">
+                                            <div class="lucation">CERP Representações Ltda</div>
+                                            <ul>
+                                                <li>
+                                                    <span class="icon flaticon-place"></span>
+                                                    <h5>Rua Álvaro Rodrigues, 182, sl 95/96</h5>
+                                                    <p>São Paulo - SP</p>
+                                                </li>
+
+                                                <li>
+                                                    <span class="icon flaticon-support"></span>
+                                                    <h5>Renato Pierri</h5>
+                                                    <p><a href="#">+55 11 5543 5700</a></p>
+                                                </li>
+
+                                                <li>
+                                                    <span class="icon flaticon-plane"></span>
+                                                    <h5>E-Mail</h5>
+                                                    <p><a href="#">renato.pierri@cerp.com.br</a></p>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="branch-info-box">
+                                    <div class="row clearfix">
+                                        <div class="image-column col-md-6 col-sm-6 col-xs-12">
+                                            <div class="image"><a href="#"><img src="images/resource/branch-1.jpg" alt=""></a></div>
+                                        </div>
+                                        <div class="info-column col-md-6 col-sm-6 col-xs-12">
+                                            <div class="lucation">Gebe Máquinas e Metais</div>
+                                            <ul>
+                                                <li>
+                                                    <span class="icon flaticon-place"></span>
+                                                    <h5>Av. Cândido de Abreu, 427</h5>
+                                                    <p>13º andar/Cj. 1306</p>
+                                                    <p>Curitiba - PR</p>
+                                                </li>
+
+                                                <li>
+                                                    <span class="icon flaticon-support"></span>
+                                                    <h5>Gerd Brauer</h5>
+                                                    <p><a href="#">+55 41 3254 8471</a></p>
+                                                </li>
+
+                                                <li>
+                                                    <span class="icon flaticon-plane"></span>
+                                                    <h5>E-Mail</h5>
+                                                    <p><a href="#">gebe@gebemaquinas.com.br</a></p>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="branch-info-box">
+                                    <div class="row clearfix">
+                                        <div class="image-column col-md-6 col-sm-6 col-xs-12">
+                                            <div class="image"><a href="#"><img src="images/resource/branch-1.jpg" alt=""></a></div>
+                                        </div>
+                                        <div class="info-column col-md-6 col-sm-6 col-xs-12">
+                                            <div class="lucation">Schott & Cia</div>
+                                            <ul>
+                                                <li>
+                                                    <span class="icon flaticon-place"></span>
+                                                    <h5>Rua dos Beija Flores, 56</h5>
+                                                    <p>Condado de Castela - Viamão - RS</p>
+                                                </li>
+
+                                                <li>
+                                                    <span class="icon flaticon-support"></span>
+                                                    <h5>Günther Schott</h5>
+                                                    <p><a href="#">+55 51 3045 1319</a></p>
+                                                </li>
+
+                                                <li>
+                                                    <span class="icon flaticon-plane"></span>
+                                                    <h5>E-Mail</h5>
+                                                    <p><a href="#">schott@cpovo.net</a></p>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="branch-info-box">
+                                    <div class="row clearfix">
+                                        <div class="image-column col-md-6 col-sm-6 col-xs-12">
+                                            <div class="image"><a href="#"><img src="images/resource/branch-1.jpg" alt=""></a></div>
+                                        </div>
+                                        <div class="info-column col-md-6 col-sm-6 col-xs-12">
+                                            <div class="lucation">Paulo Furtado</div>
+                                            <ul>
+                                                <li>
+                                                    <span class="icon flaticon-place"></span>
+                                                    <h5>Rua 17 de Agosto, n. 162, Quadra 25</h5>
+                                                    <p>Residencial Carmelândia,</p>
+                                                    <p>Belém - PA</p>
+                                                </li>
+
+                                                <li>
+                                                    <span class="icon flaticon-support"></span>
+                                                    <h5>Paulo Furtado</h5>
+                                                    <p><a href="#">+55 91 98864-2301</a></p>
+                                                </li>
+
+                                                <li>
+                                                    <span class="icon flaticon-plane"></span>
+                                                    <h5>E-Mail</h5>
+                                                    <p><a href="#">p.furtado@kuttner.com.br</a></p>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="branch-info-box">
+                                    <div class="row clearfix">
+                                        <div class="image-column col-md-6 col-sm-6 col-xs-12">
+                                            <div class="image"><a href="#"><img src="images/resource/branch-1.jpg" alt=""></a></div>
+                                        </div>
+                                        <div class="info-column col-md-6 col-sm-6 col-xs-12">
+                                            <div class="lucation">ETR Consultoria téc. e com.</div>
+                                            <ul>
+                                                <li>
+                                                    <span class="icon flaticon-place"></span>
+                                                    <h5>Rua 16, Nr. 109 - sala 309, Vila Santa Cecilia</h5>
+                                                    <p>Volta Redonda - RJ</p>
+                                                </li>
+
+                                                <li>
+                                                    <span class="icon flaticon-support"></span>
+                                                    <h5>Everardo T. dos Reis Filho</h5>
+                                                    <p><a href="#">+55 24 3342 5477</a></p>
+                                                </li>
+
+                                                <li>
+                                                    <span class="icon flaticon-plane"></span>
+                                                    <h5>E-Mail</h5>
+                                                    <p><a href="#">etr_consultoria@uol.com.br</a></p>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="slide">
+                            <div class="branch-info-box">
+                                    <div class="row clearfix">
+                                        <div class="image-column col-md-6 col-sm-6 col-xs-12">
+                                            <div class="image"><a href="#"><img src="images/resource/branch-1.jpg" alt=""></a></div>
+                                        </div>
+                                        <div class="info-column col-md-6 col-sm-6 col-xs-12">
+                                            <div class="lucation">Proteco Ltda</div>
+                                            <ul>
+                                                <li>
+                                                    <span class="icon flaticon-place"></span>
+                                                    <h5>M.A. Tocornal 566,P.O. Box 10430</h5>
+                                                    <p>Santiago - Chile</p>
+                                                </li>
+
+                                                <li>
+                                                    <span class="icon flaticon-support"></span>
+                                                    <h5>Herbert Ramdohr</h5>
+                                                    <p><a href="#">+56 (2) 222 4526/222 4725</a></p>
+                                                </li>
+
+                                                <li>
+                                                    <span class="icon flaticon-plane"></span>
+                                                    <h5>E-Mail</h5>
+                                                    <p><a href="#">info@proteco.cl</a></p>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div><div class="branch-info-box">
+                                    <div class="row clearfix">
+                                        <div class="image-column col-md-6 col-sm-6 col-xs-12">
+                                            <div class="image"><a href="#"><img src="images/resource/branch-1.jpg" alt=""></a></div>
+                                        </div>
+                                        <div class="info-column col-md-6 col-sm-6 col-xs-12">
+                                            <div class="lucation">Bramund</div>
+                                            <ul>
+                                                <li>
+                                                    <span class="icon flaticon-place"></span>
+                                                    <h5>Carretera Federal 57, El Marqués,</h5>
+                                                    <p>Lateral Norte Km 201+100, Nave 57</p>
+                                                    <p>Querétaro, México</p>
+                                                </li>
+
+                                                <li>
+                                                    <span class="icon flaticon-support"></span>
+                                                    <h5>Alexandre Bortolini</h5>
+                                                    <p><a href="#">+52 1 81 1385 1908</a></p>
+                                                </li>
+
+                                                <li>
+                                                    <span class="icon flaticon-plane"></span>
+                                                    <h5>E-Mail</h5>
+                                                    <p><a href="#">alexandre@bramund.com</a></p>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="slide">
+                                <div class="branch-info-box">
+                                    <div class="row clearfix">
+                                        <div class="image-column col-md-6 col-sm-6 col-xs-12">
+                                            <div class="image"><a href="#"><img src="images/resource/branch-1.jpg" alt=""></a></div>
+                                        </div>
+                                        <div class="info-column col-md-6 col-sm-6 col-xs-12">
+                                            <div class="lucation">Newyork City</div>
+                                            <ul>
+                                                <li>
+                                                    <span class="icon flaticon-place"></span>
+                                                    <h5>Big Smart Str, 2nd Cross</h5>
+                                                    <p>Newyork, USA 1002.</p>
+                                                </li>
+
+                                                <li>
+                                                    <span class="icon flaticon-support"></span>
+                                                    <h5>Call Us On</h5>
+                                                    <p><a href="#">1-800-784-533 & 544</a></p>
+                                                </li>
+
+                                                <li>
+                                                    <span class="icon flaticon-plane"></span>
+                                                    <h5>Mail Us at</h5>
+                                                    <p><a href="#">Machinery@Support.com</a></p>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="branch-info-box">
+                                    <div class="row clearfix">
+                                        <div class="image-column col-md-6 col-sm-6 col-xs-12">
+                                            <div class="image"><a href="#"><img src="images/resource/branch-2.jpg" alt=""></a></div>
+                                        </div>
+                                        <div class="info-column col-md-6 col-sm-6 col-xs-12">
+                                            <div class="lucation">California</div>
+                                            <ul>
+                                                <li>
+                                                    <span class="icon flaticon-place"></span>
+                                                    <h5>Big Smart Str, 2nd Cross</h5>
+                                                    <p>California, USAv 90001.</p>
+                                                </li>
+
+                                                <li>
+                                                    <span class="icon flaticon-support"></span>
+                                                    <h5>Call Us On</h5>
+                                                    <p><a href="#">1-800-784-533 & 544</a></p>
+                                                </li>
+
+                                                <li>
+                                                    <span class="icon flaticon-plane"></span>
+                                                    <h5>Mail Us at</h5>
+                                                    <p><a href="#">Machinery@Support.com</a></p>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="slide">
+                                <div class="branch-info-box">
+                                    <div class="row clearfix">
+                                        <div class="image-column col-md-6 col-sm-6 col-xs-12">
+                                            <div class="image"><a href="#"><img src="images/resource/branch-1.jpg" alt=""></a></div>
+                                        </div>
+                                        <div class="info-column col-md-6 col-sm-6 col-xs-12">
+                                            <div class="lucation">Newyork City</div>
+                                            <ul>
+                                                <li>
+                                                    <span class="icon flaticon-place"></span>
+                                                    <h5>Big Smart Str, 2nd Cross</h5>
+                                                    <p>Newyork, USA 1002.</p>
+                                                </li>
+
+                                                <li>
+                                                    <span class="icon flaticon-support"></span>
+                                                    <h5>Call Us On</h5>
+                                                    <p><a href="#">1-800-784-533 & 544</a></p>
+                                                </li>
+
+                                                <li>
+                                                    <span class="icon flaticon-plane"></span>
+                                                    <h5>Mail Us at</h5>
+                                                    <p><a href="#">Machinery@Support.com</a></p>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="branch-info-box">
+                                    <div class="row clearfix">
+                                        <div class="image-column col-md-6 col-sm-6 col-xs-12">
+                                            <div class="image"><a href="#"><img src="images/resource/branch-2.jpg" alt=""></a></div>
+                                        </div>
+                                        <div class="info-column col-md-6 col-sm-6 col-xs-12">
+                                            <div class="lucation">California</div>
+                                            <ul>
+                                                <li>
+                                                    <span class="icon flaticon-place"></span>
+                                                    <h5>Big Smart Str, 2nd Cross</h5>
+                                                    <p>California, USAv 90001.</p>
+                                                </li>
+
+                                                <li>
+                                                    <span class="icon flaticon-support"></span>
+                                                    <h5>Call Us On</h5>
+                                                    <p><a href="#">1-800-784-533 & 544</a></p>
+                                                </li>
+
+                                                <li>
+                                                    <span class="icon flaticon-plane"></span>
+                                                    <h5>Mail Us at</h5>
+                                                    <p><a href="#">Machinery@Support.com</a></p>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
                     </div>
                 </div>
 
-                <div class="filter-list row clearfix">
-                    <!-- Project Block -->
-                    <div class="project-block-two mix all power brasil col-md-4 col-sm-6 col-xs-12">
-                        <div class="image-box">
-                            <!-- <figure><img src="imgs/catalogos/catalogo.png" alt=""></figure> -->
-                            <h3>Kuttner do Brasil</h3>	
-                                <p>Jorg Hagedorn</p>
-                                <span class="tag">kuttner@kuttner.com.br</span> 
-                                <p>Rua Santiago Ballesteros, 610</p>
-                                <p>CINCO, Contagem - MG</p>
-                                <p>CEP: 32010-050</p>
-                                <p>Tel: +55 31 3399 7200</p>
-                                <p>kuttner.com.br</p>
-                        </div>
-                    </div>
-                    <!-- Project Block -->
-                    <div class="project-block-two mix all power brasil col-md-4 col-sm-6 col-xs-12">
-                        <div class="image-box">
-                            <!-- <figure><img src="imgs/catalogos/catalogo.png" alt=""></figure> -->
-                            <h3>Kuttner No-Bake Solutions</h3>	
-                                <p>Sérgio Perdrozo</p>
-                                <span class="tag">s.pedrozo@kuttner-nbs.com.br</span> 
-                                <p>Rua Abelardo Benedicto Libório, 951</p>
-                                <p>Libéria, Piracicaba - SP</p>
-                                <p>CEP: 13413-075</p>
-                                <p>Tel: +55 (19) 3302 4770</p>
-                                <p>kuttner-nbs.com.br</p>                                
-                        </div>
-                    </div>
-
-                    <!-- Project Block -->
-                    <div class="project-block-two mix all power brasil col-md-4 col-sm-6 col-xs-12">
-                        <div class="image-box">
-                            <!-- <figure><img src="imgs/catalogos/catalogo.png" alt=""></figure> -->
-                            <h3>CERP Representações Ltda</h3>
-                                <p>Renato Pierri</p>	
-                                <span class="tag">renato.pierri@cerp.com.br</span> 
-                                <p>Rua Álvaro Rodrigues, 182, sl 95/96</p>
-                                <p>São Paulo - SP</p>
-                                <p>CEP: 04582-000</p>
-                                <p>Tel: +55 11 5543 5700</p>
-                                <p>cerp.com.br</p>                                
-                        </div>
-                    </div>
-                    <!-- Project Block -->
-                    <div class="project-block-two mix all power brasil col-md-4 col-sm-6 col-xs-12">
-                        <div class="image-box">
-                            <!-- <figure><img src="imgs/catalogos/catalogo.png" alt=""></figure> -->
-                            <h3>Gebe Máquinas e Metais</h3>
-                                <p>Gerd Brauer</p>	
-                                <span class="tag">gebe@gebemaquinas.com.br</span> 
-                                <p>Av. Cândido de Abreu, 427</p>
-                                <p>13º andar/Cj. 1306</p>
-                                <p>Curitiba - PR</p>
-                                <p>CEP: 80530-000</p>
-                                <p>Tel: +55 41 3254 8471</p>                             
-                        </div>
-                    </div>
-                    <!-- Project Block -->
-                    <div class="project-block-two mix all power brasil col-md-4 col-sm-6 col-xs-12">
-                        <div class="image-box">
-                            <!-- <figure><img src="imgs/catalogos/catalogo.png" alt=""></figure> -->
-                            <h3>Schott & Cia</h3>
-                                <p>Günther Schott</p>	
-                                <span class="tag">schott@cpovo.net</span> 
-                                <p>Rua dos Beija Flores, 56</p>
-                                <p>Condado de Castela</p>
-                                <p>Viamão - RS</p>
-                                <p>CEP: 94400-080</p>
-                                <p>Tel: +55 51 3045 1319</p>               
-                        </div>
-                    </div>
-                    <!-- Project Block -->
-                    <div class="project-block-two mix all power brasil col-md-4 col-sm-6 col-xs-12">
-                        <div class="image-box">
-                            <!-- <figure><img src="imgs/catalogos/catalogo.png" alt=""></figure> -->
-                            <h3>Paulo Furtado</h3>
-                                <span class="tag">p.furtado@kuttner.com.br</span> 
-                                <p>Rua 17 de Agosto, n. 162, Quadra 25,</p>
-                                <p>Residencial Carmelândia,</p>
-                                <p>Belém - PA</p>
-                                <p>CEP: 66640-415</p>
-                                <p>Tel: +55 91 98864-2301</p>  
-                                <p>&nbsp;</p>                           
-                        </div>
-                    </div>
-                    <!-- Project Block -->
-                    <div class="project-block-two mix all power brasil col-md-4 col-sm-6 col-xs-12">
-                        <div class="image-box">
-                            <!-- <figure><img src="imgs/catalogos/catalogo.png" alt=""></figure> -->
-                            <h3>ETR Consultoria téc. e com.</h3>
-                                <p>Everardo T. dos Reis Filho</p>	
-                                <span class="tag">etr_consultoria@uol.com.br</span> 
-                                <p>Rua 16, Nr. 109 - sala 309, Vila Santa Cecilia</p>
-                                <p>Volta Redonda - RJ</p>
-                                <p>CEP: 27260-090</p>
-                                <p>Tel: +55 24 3342 5477</p>  
-                                <p>&nbsp;</p>                           
-                        </div>
-                    </div>
-                    <!-- Project Block -->
-                    <div class="project-block-two mix all power americalatina col-md-4 col-sm-6 col-xs-12">
-                        <div class="image-box">
-                            <!-- <figure><img src="imgs/catalogos/catalogo.png" alt=""></figure> -->
-                            <h3>Proteco Ltda</h3>
-                                <p>Herbert Ramdohr</p>	
-                                <span class="tag">info@proteco.cl</span> 
-                                <p>M.A. Tocornal 566,P.O. Box 10430</p>
-                                <p>Santiago - Chile</p>
-                                <p>Tel: +56 (2) 222 4526/222 4725</p>
-                                <p>http://www.proteco.cl/</p>     
-                                <p>&nbsp;</p>                      
-                        </div>
-                    </div>
-                    <!-- Project Block -->
-                    <div class="project-block-two mix all power americalatina col-md-4 col-sm-6 col-xs-12">
-                        <div class="image-box">
-                            <!-- <figure><img src="imgs/catalogos/catalogo.png" alt=""></figure> -->
-                            <h3>Bramund</h3>
-                                <p>Alexandre Bortolini</p>	
-                                <span class="tag">alexandre@bramund.com</span> 
-                                <p>Carretera Federal 57, El Marqués,</p>
-                                <p>Lateral Norte Km 201+100, Nave 57</p>
-                                <p>Querétaro, México</p>
-                                <p>Tel: +52 1 81 1385 1908</p>  
-                                <p>https://www.bramund4.com/</p>                           
-                        </div>
-                    </div>
-                    <!-- Project Block -->
-                    <div class="project-block-two mix all power europa col-md-4 col-sm-6 col-xs-12">
-                        <div class="image-box">
-                            <!-- <figure><img src="imgs/catalogos/catalogo.png" alt=""></figure> -->
-                            <h3>Essen Küttner GmbH & Co. KG</h3>
-                                <span class="tag">info@kuettner.de</span> 
-                                <p>Alfredstr. 28,</p>
-                                <p>45130 Essen</p>	
-                                <p>Tel: +49 201 7293 0</p>
-                                <p>http://www.kuettner.com/</p>                           
-                                <p>&nbsp;</p>
-                                <p>&nbsp;</p>
-                        </div>
-                    </div>
-                    <!-- Project Block -->
-                    <div class="project-block-two mix all power europa col-md-4 col-sm-6 col-xs-12">
-                        <div class="image-box">
-                            <!-- <figure><img src="imgs/catalogos/catalogo.png" alt=""></figure> -->
-                            <h3>Küttner Energy</h3>
-                                <span class="tag">kie@kuettner.com</span> 
-                                <p>Alfredstr. 28,</p>	
-                                <p>45130 Essen</p>
-                                <p>Tel: +49 201 7293 260</p>
-                                <p>&nbsp;</p>
-                                <p>&nbsp;</p>
-                                <p>&nbsp;</p>
-                        </div>
-                    </div>
-                    <!-- Project Block -->
-                    <div class="project-block-two mix all power europa col-md-4 col-sm-6 col-xs-12">
-                        <div class="image-box">
-                            <!-- <figure><img src="imgs/catalogos/catalogo.png" alt=""></figure> -->
-                            <h3>HuDe GmbH</h3>
-                                <p>Coqueria</p>	
-                                <span class="tag">info@hude.com</span> 
-                                <p>Gewerbestrasse Süd 55,</p>
-                                <p>41812 Erkelenz</p>
-                                <p>Tel: +49 2431 - 96 80-0</p>
-                                <p>hude.com/</p>                           
-                                <p>&nbsp;</p>
-                        </div>
-                    </div>
-                    <!-- Project Block -->
-                    <div class="project-block-two mix all power europa col-md-4 col-sm-6 col-xs-12">
-                        <div class="image-box">
-                            <!-- <figure><img src="imgs/catalogos/catalogo.png" alt=""></figure> -->
-                            <h3>Küttner Automation GmbH	</h3>
-                                <span class="tag">info@kuettner-automation.de</span> 
-                                <p>Otto-Brenner-Straße 3,</p>	
-                                <p>54294 Trier</p>
-                                <p>Tel: +49 651 8251 0</p>
-                                <span class="tag">kuettner-automation.com</span>                          
-                                <p>&nbsp;</p>
-                                <p>&nbsp;</p>
-                        </div>
-                    </div>
-                    <!-- Project Block -->
-                    <div class="project-block-two mix all power europa col-md-4 col-sm-6 col-xs-12">
-                        <div class="image-box">
-                            <!-- <figure><img src="imgs/catalogos/catalogo.png" alt=""></figure> -->
-                            <h3>E.S.C.H. GmbH</h3>
-                                <p>Injeção de Finos	</p>	
-                                <span class="tag">info@esch-online.de</span> 
-                                <p>Maxhüttenstr. 19</p>
-                                <p>07333 Unterwellenborn</p>
-                                <p>Tel: +49 (3671) 674010</p>
-                                <p>http://www.esch-online.de/</p>   
-                                <p>&nbsp;</p>                        
-                        </div>
-                    </div>
-                    <!-- Project Block -->
-                    <div class="project-block-two mix all power europa col-md-4 col-sm-6 col-xs-12">
-                        <div class="image-box">
-                            <!-- <figure><img src="imgs/catalogos/catalogo.png" alt=""></figure> -->
-                            <h3>WÜRZ GmbH</h3>
-                                <p>Recuperação de Calor</p>	
-                                <span class="tag">info@wuerzreku.de</span> 
-                                <p>Hanns-Martin-Schleyer-Str. 20a</p>
-                                <p>47877 Willich-Münchheide</p>
-                                <p>+49 2154 4811-0</p>
-                                <p>http://www.wuerzreku.de/</p>  
-                                <p>&nbsp;</p>
-                        </div>
-                    </div>
-                    <!-- Project Block -->
-                    <div class="project-block-two mix all power europa col-md-4 col-sm-6 col-xs-12">
-                        <div class="image-box">
-                            <!-- <figure><img src="imgs/catalogos/catalogo.png" alt=""></figure> -->
-                            <h3>Kuttner S.a.r.l.</h3>
-                                <span class="tag">kuttner@kuttner.fr</span> 
-                                <p>5, Rue du Jardins 67140 Barr</p>	
-                                <p>Tel: +33 388 585500 </p>
-                                <p>&nbsp;</p>
-                                <p>&nbsp;</p>
-                                <p>&nbsp;</p>
-                                <p>&nbsp;</p>
-                        </div>
-                    </div>
-                    <!-- Project Block -->
-                    <div class="project-block-two mix all power europa col-md-4 col-sm-6 col-xs-12">
-                        <div class="image-box">
-                            <!-- <figure><img src="imgs/catalogos/catalogo.png" alt=""></figure> -->
-                            <h3>Kuttner Ukraine</h3>
-                                <p>Representation</p>	
-                                <span class="tag">s.usovitsch@kuettner.com</span> 
-                                <p>wul.Tschervonotkatska, 40</p>
-                                <p>02094 Kyiv</p>
-                                <p>Tel: +38 0992123362</p>
-                                <p>&nbsp;</p>
-                                <p>&nbsp;</p>
-                        </div>
-                    </div>
-                    <!-- Project Block -->
-                    <div class="project-block-two mix all power mundo col-md-4 col-sm-6 col-xs-12">
-                        <div class="image-box">
-                            <!-- <figure><img src="imgs/catalogos/catalogo.png" alt=""></figure> -->
-                            <h3>Kuettner South Africa (pty) Ltd.</h3>
-                                <span class="tag">s.laubscher@kuettner.com</span> 
-                                <p>Postnet Suite # 899</p>	
-                                <p>Private Bag X1007</p>
-                                <p>Lyttelton</p>
-                                <p>0140  SOUTH AFRICA</p>
-                                <p>&nbsp;</p>
-                                <p>&nbsp;</p>
-                        </div>
-                    </div>
-                    <!-- Project Block -->
-                    <div class="project-block-two mix all power mundo col-md-4 col-sm-6 col-xs-12">
-                        <div class="image-box">
-                            <!-- <figure><img src="imgs/catalogos/catalogo.png" alt=""></figure> -->
-                            <h3>Kuttner LLC</h3>
-                                <span class="tag">kuettnerinfo@kuttnerna.com</span> 
-                                <p>211 N. Franklin Street,</p>	
-                                <p>PO Box 343</p>
-                                <p>Port Washington, WI</p>
-                                <p>53074-0343 UNITED STATES</p>
-                                <p>Phone: +1 262 2844483</p>  
-                                <p>kuttnerna.com</p>                           
-                        </div>
-                    </div>
-                    <!-- Project Block -->
-                    <div class="project-block-two mix all power mundo col-md-4 col-sm-6 col-xs-12">
-                        <div class="image-box">
-                            <!-- <figure><img src="imgs/catalogos/catalogo.png" alt=""></figure> -->
-                            <h3>Somani Kuttner India (P)Ltd.</h3>
-                                <span class="tag">vinudasan@somanikuttner.com</span> 
-                                <p>Saga, 6 Tilak Marg,</p>	
-                                <p>New Delhi – 110001</p>
-                                <p>Tel: +91 11 3782022</p>
-                                <p>&nbsp;</p>
-                                <p>&nbsp;</p>
-                                <p>&nbsp;</p>
-                        </div>
-                    </div>
-                    <!-- Project Block -->
-                    <div class="project-block-two mix all power mundo col-md-4 col-sm-6 col-xs-12">
-                        <div class="image-box">
-                            <!-- <figure><img src="imgs/catalogos/catalogo.png" alt=""></figure> -->
-                            <h3>Kuttner Asia Co. Ltd.</h3>
-                                <span class="tag">david.yao@kuettner.com.tw</span> 
-                                <p>22F-3A, No. 110, Santuo,</p>	
-                                <p>4th Road</p>
-                                <p>802  Kaohsiung</p>
-                                <p>Tel: +886  7 3366585</p>
-                                <p>&nbsp;</p>
-                                <p>&nbsp;</p>                                                        
+                <div class="map-column col-md-5 col-sm-12 col-xs-12">
+                    <div class="map-outer">
+                        <!--Map Canvas-->
+                        <div class="map-canvas"
+                            data-zoom="15"
+                            data-lat="-19.9397298"
+                            data-lng="-44.074559,17"
+                            data-type="roadmap"
+                            data-hue="#ffc400"
+                            data-title="Envato"
+                            data-icon-path="images/icons/map-marker.png"
+                            data-content="R. Santiago Balesteiros, 610 <br> Cinco, Contagem - MG<br><a href='mailto:kuttner@kuttner.com.br'>kuttner@kuttner.com.br</a>">
                         </div>
                     </div>
                 </div>
             </div>
         </div>
     </section>
+    <!--End Contact Section Two -->
+
 <?php
 include_once "./base/bootom.php";
 ?>
 <?php
 include_once "./base/footer.php";
 ?>
+
+<script src="http://maps.google.com/maps/api/js?key=AIzaSyDTPlX-43R1TpcQUyWjFgiSfL_BiGxslZU"></script>
+<script src="js/map-script.js"></script>
 </html>

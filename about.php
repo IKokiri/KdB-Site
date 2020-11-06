@@ -31,9 +31,12 @@ include_once "./base/banner.php";
                         <!-- About Block -->
                         <div class="about-block-two">
                             <div class="icon-box">
+                            <h5>Certificado</h5>
+                            <h5>ISO 9001</h5>
                             <div class="link-box"><a href="docs/iso/iso_9001_kuttnerbrasil.pdf" target="_blank"><i class="fa fa-download"></i> Donwload</a></div>
+                            
                             </div>
-                            <h3>Certificado ISO 9001</h3>
+                            <h3>POLÍTICA DA QUALIDADE</h3>
                             <div class="text">
                             Qualidade é o compromisso da KUTTNER e obrigação de cada um dos colaboradores.
                             </div>
