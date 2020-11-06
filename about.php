@@ -25,7 +25,7 @@ include_once "./base/banner.php";
     <!-- About Us -->
     <section class="about-section-two">
         <div class="auto-container">
-            <div class="outer-box clearfix" style="background-image:url(images/background/4.jpg);">
+            <div class="outer-box clearfix" style="background-image:url(/imgs/banner/kuttner.webp);">
                 <div class="highlight-box">
                     <div class="info-carousel owl-carousel owl-theme">
                         <!-- About Block -->
@@ -64,7 +64,7 @@ include_once "./base/banner.php";
             <div class="row clearfix">
                 <div class="content-column col-md-6 col-sm-12 col-xs-12">
                     <div class="inner-column">
-                        <div class="text">
+                        <div class="text text-justify">
                             <p>
                                 A Kuttner Holding com sede em Essen/Alemanha foi fundado no ano de 1949 pelo Engenheiro Dr. Carl Kuttner, sendo hoje um Grupo empresarial internacional com atividades na Europa, Ásia, América do Norte e América do Sul, dedicado à engenharia e fornecimento de instalações industriais “Turn Key”, principalmente para a indústria siderúrgica e de fundição.
                             </p>
@@ -74,6 +74,20 @@ include_once "./base/banner.php";
                             <p>
                                 No Brasil, o GRUPO Kuttner está presente através de suas afiliadas Kuttner do Brasil em Contagem/MG e Kuttner No-Bake Solutions em Piracicaba/SP.
                             </p>
+                                <ul>
+                                    <li>
+                                        - Fundada em 1948
+                                    </li> 
+                                    <li>
+                                        - Empresa de médio porte gerida por parceiros
+                                    </li>
+                                    <li>
+                                        - Tecnologias para processo intensivo de materiais e energia
+                                    </li>
+                                    <li>
+                                        - Atendendo ao mercado global
+                                    </li>
+                                </ul>                            
                         </div>
                     </div>
                 </div>
@@ -215,9 +229,11 @@ include_once "./base/banner.php";
             <div class="row clearfix">
                 <div class="content-column col-md-6 col-sm-12 col-xs-12">
                     <div class="inner-column">
-                        <div class="text">
+                        <div class="text text-justify">
                             <p>
-                            Kuttner no mundo
+                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tortor mi, faucibus nec ullamcorper sed, ullamcorper eget ante. Proin auctor faucibus arcu, ac sodales ipsum feugiat nec. Nullam scelerisque velit in augue vulputate commodo. Nulla leo eros, consectetur viverra facilisis a, condimentum sed turpis. Suspendisse non porta justo. Etiam ultrices quam et purus vulputate vulputate. Proin id nunc a arcu facilisis luctus. In hac habitasse platea dictumst. Aliquam et felis lacinia, bibendum urna nec, commodo turpis. Nunc sit amet mi gravida, sodales mauris ac, hendrerit quam. Vivamus a egestas sapien. Vestibulum pulvinar dictum lacinia. Quisque tristique sollicitudin faucibus. Aliquam et malesuada sem.
+                            </p><p>
+Aliquam id aliquet risus. Suspendisse fringilla imperdiet massa, eget venenatis urna convallis et. Donec vel massa non libero egestas vestibulum. Fusce eu est maximus arcu convallis rhoncus. Mauris eget mauris dignissim, volutpat nulla a, efficitur purus. Quisque posuere turpis eget maximus rhoncus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur rhoncus gravida neque, vitae ultrices tellus condimentum a.
                             </p>
                         </div>
                     </div>
@@ -235,10 +251,35 @@ include_once "./base/banner.php";
             <div class="row clearfix">
                 <div class="content-column col-md-6 col-sm-12 col-xs-12">
                     <div class="inner-column">
-                        <div class="text">
-                        <p>
-                            Kuttner Alemanha
-                        </p>
+                        <div class="text text-justify">         
+                        
+                        <h5>Localização dos centros de tecnologia</h5>               
+                            <ul>
+                                <li>
+                                    - Küttner Holding GmbH & Co, Essen
+                                </li> 
+                                <li>
+                                    - Küttner GmbH & Co, Essen
+                                </li>
+                            </ul>
+                        </div>
+                        
+                        <div class="text text-justify"> 
+                            <h5>Subsidiárias</h5>
+                            <ul>
+                                <li>
+                                    - Küttner Automation GmbH
+                                </li> 
+                                <li>
+                                    - Küttner TDCo GmbH
+                                </li> 
+                                <li>
+                                    - WÜRZ GmbH,Willich
+                                </li> 
+                                <li>
+                                    - E.S.C.H GmbH
+                                </li> 
+                            </ul>
                         </div>
                     </div>
                 </div>
@@ -256,7 +297,7 @@ include_once "./base/banner.php";
                 <div class="content-column col-md-6 col-sm-12 col-xs-12">
                     <div class="inner-column">
                         <h3>Interdisciplinary Work. One group.</h3>
-                        <div class="text">
+                        <div class="text text-justify">
                             <p>
                                 Kuttner do Brasil, fornecedora tradicional de equipamentos e instalações para a indústria siderúrgica e de fundição, mineração e meio ambiente, é uma empresa afiliada ao GRUPO Kuttner da Alemanha com atividades na Europa, Ásia e Américas.
                             </p>
