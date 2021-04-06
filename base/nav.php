@@ -50,8 +50,8 @@
                                         <li class="sublink"><a href="about.php#kuttnermundo">Kuttner no Mundo</a></li>
                                         <li class="sublink"><a href="about.php#kuttneralemanha">Kuttner Alemanha</a></li>
                                         <li class="sublink"><a href="about.php#kuttnerbrasil">Kuttner do Brasil</a></li>
-                                        <li class="sublink"><a href="about.php">Políticas da Qualidade</a></li>
-                                        <li class="sublink"><a href="about.php">Gestão</a></li>
+                                        <li class="sublink"><a href="docs\iso\iso_9001_kuttnerbrasil.pdf" target="_blank">Certificado</a></li>
+                                        <li class="sublink"><a href="gestao.php">Gestão</a></li>
                                     </ul>
                                 </li>
                                 <li class="menutopo"><a href="#">Tecnologias</a>
@@ -102,8 +102,8 @@
                                         <li class="sublink"><a href="about.php#kuttnermundo">Kuttner no Mundo</a></li>
                                         <li class="sublink"><a href="about.php#kuttneralemanha">Kuttner Alemanha</a></li>
                                         <li class="sublink"><a href="about.php#kuttnerbrasil">Kuttner do Brasil</a></li>
-                                        <li class="sublink"><a href="about.php">Políticas da Qualidade</a></li>
-                                        <li class="sublink"><a href="about.php">Gestão</a></li>
+                                        <li class="sublink"><a href="docs\iso\iso_9001_kuttnerbrasil.pdf" target="_blank">Certificado</a></li>
+                                        <li class="sublink"><a href="gestao.php">Gestão</a></li>
                                     </ul>
                                 </li>
                                 <li class="menutopo"><a href="#">Tecnologias</a>
