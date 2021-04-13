@@ -49,26 +49,6 @@ include_once "./base/banner.php";
                     </div>
                 </div>
 
-                <!-- Team Block -->
-                <div class="team-block col-md-4 col-sm-6 col-xs-12">
-                    <div class="inner-box">
-                        <div class="image-box">
-                            <figure><img src="imgs/equipe/jl.png" alt=""></figure>
-                            <div class="overlay-box">
-                                <ul class="social-links">
-                                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                                </ul>
-                            </div>
-                        </div>
-                        <div class="lower-content">
-                            <div class="email"><a href="#"><span class="flaticon-email-1"></span></a></div>
-                            <h3 class="name">Joaquim Luiz Monteiro de Barros</h3>
-                            <span class="designation">Sócio-Diretor / Managing Partner - CBDO</span>
-                        </div>
-                    </div>
-                </div>
 
                 <!-- Team Block -->
                 <div class="team-block col-md-4 col-sm-6 col-xs-12">
@@ -87,6 +67,28 @@ include_once "./base/banner.php";
                             <div class="email"><a href="#"><span class="flaticon-email-1"></span></a></div>
                             <h3 class="name">Wilbert Stoy</h3>
                             <span class="designation">Sócio-Diretor / Managing Partner - CTO</span>
+                        </div>
+                    </div>
+                </div>
+
+                
+                <!-- Team Block -->
+                <div class="team-block col-md-4 col-sm-6 col-xs-12">
+                    <div class="inner-box">
+                        <div class="image-box">
+                            <figure><img src="imgs/equipe/jl.png" alt=""></figure>
+                            <div class="overlay-box">
+                                <ul class="social-links">
+                                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="lower-content">
+                            <div class="email"><a href="#"><span class="flaticon-email-1"></span></a></div>
+                            <h3 class="name">Joaquim Luiz Monteiro de Barros</h3>
+                            <span class="designation">Sócio-Diretor / Managing Partner - CBDO</span>
                         </div>
                     </div>
                 </div>
@@ -118,6 +120,8 @@ include_once "./base/banner.php";
         </div>
 
     </section>
+
+
     
 <?php
 include_once "./base/bootom.php";

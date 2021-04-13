@@ -14,7 +14,83 @@
   color: #FFF !important;
 }
 
+.form-group label{
+    color:#000 !important
+}
+.form-group ::placeholder{
+    color:#CCC !important
+}
+
 </style>
+
+
+<!-- Modal -->
+<div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-lg" role="document">
+    <div class="modal-content">
+     
+      <div class="modal-body">
+        <!-- Contact Section three -->
+    <section class="contact-section-three">
+        <div class="auto-container">
+            <div class="row clearfix">
+
+                <!-- Form Column -->
+                <div class="form-column col-md-12 col-sm-12 col-xs-12">
+                    <div class="inner-column">
+                        <div class="sec-title">
+                            <h2>Faça seu registro e receba nossas novidades.</h2>
+                            <div class="text">&nbsp;</div>
+                        </div>
+                        <!--Contact Form-->
+                        <div class="contact-form style-three">
+                            <form>
+                                <div class="row clearfix">
+                                    <div class="left-column col-md-6 col-sm-6 col-xs-12">
+                                    <div class="form-group">
+                                            <label>Empresa</label>
+                                            <input type="text" name="username" value="" placeholder="Sua Empresa" required>
+                                        </div>
+
+                                        <div class="form-group">
+                                            <label>Nome</label>
+                                            <input type="text" name="username" value="" placeholder="Seu Nome" required>
+                                        </div>
+
+                                        <div class="form-group">
+                                            <label>Email</label>
+                                            <input type="email" name="email" value="" placeholder="Seu E-Mail" required>
+                                        </div>
+
+                                        <div class="form-group">
+                                            <label>Função</label>
+                                            <input type="text" name="subject" value="" placeholder="Sua Função" required>
+                                        </div>
+                                    </div>
+                                    <div class="column col-md-6 col-sm-6 col-xs-12">
+                                        <div class="form-group border-left">
+                                            <label>Mensagem</label>
+                                            <textarea name="message" placeholder="Sua Mensagem"></textarea>
+                                        </div>
+                                    </div>
+                                    <div class="column col-md-12 col-sm-6 col-xs-12">
+                                        <div class="form-group">
+                                            <button type="submit" class="theme-btn">Registrar</button>
+                                        </div>
+                                    </div>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!--End Contact Section three -->
+      </div>
+    </div>
+  </div>
+</div>
     <!-- Main Footer -->
     <footer class="main-footer padding-top">
         <div class="auto-container">
@@ -27,12 +103,8 @@
                         <div class="footer-widget subscribe-widget">
                             <div class="widget-content">
                                 <div class="text">
-                                    <h4>Receber nossas novidades</h4>
-                                    <p style="color: #FFF !important;">Deseja receber as novidades da Kuttner do Brasil por e-mail?</p>
-                                    <form class="subscribe-form">
-                                        <input type="text" name="email" style="color: #444 !important;" placeholder="Seu E-Mail" autocomplete="off">
-                                        <button type="submit"><i class="machinery-icon-next"></i>Inscrever</button>
-                                    </form>
+                                    <p style="color: #FFF !important;">Deseja receber as novidades da Kuttner do Brasil por e-mail?<span href="javascript:void(0)" data-toggle="modal" data-target="#exampleModal" style="cursor:pointer"> Clique aqui.</span></p>
+ 
                                 </div>
                             </div>
                         </div>

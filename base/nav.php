@@ -56,7 +56,10 @@
                                 </li>
                                 <li class="menutopo"><a href="#">Tecnologias</a>
                                 </li>
-                                <li class="menutopo"><a href="#">Notícias</a>
+                                
+                                <li class="menutopo"><a href="#">Trabalhos Técnicos</a>
+                                </li>
+                                <li class="menutopo"><a href="news.php">Notícias</a>
                                 </li>
                                 <li class="menutopo"><a href="catalogos.php">Catálogos</a>
                                 </li>
@@ -108,7 +111,9 @@
                                 </li>
                                 <li class="menutopo"><a href="#">Tecnologias</a>
                                 </li>
-                                <li class="menutopo"><a href="#">Notícias</a>
+                                <li class="menutopo"><a href="#">Trabalhos Técnicos</a>
+                                </li>
+                                <li class="menutopo"><a href="news.php">Notícias</a>
                                 </li>
                                 <li class="menutopo"><a href="catalogos.php">Catálogos</a>
                                 </li>

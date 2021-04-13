@@ -17,10 +17,10 @@
             <div class="highlight-carousel owl-carousel owl-theme">
                 <!-- Highlight Block -->
                 <div class="highlight-block">
-                    <div class="inner-box">
-                        <div class="icon-box"><span class="machinery-icon-factory"></span></div>
-                        <div class="text">Presente em <span>mais de 10 países.</span></div>
-                    </div>
+                    <!-- <div class="inner-box"> -->
+                        <!-- <div class="icon-box"><span class="machinery-icon-factory"></span></div> -->
+                        <!-- <div class="text">Presente em <span>mais de 10 países.</span></div> -->
+                    <!-- </div> -->
                 </div>
                 <!-- Highlight Block -->
                 <!-- <div class="highlight-block">

@@ -27,7 +27,7 @@ include_once "./base/highlight.php";
 ?>
 
 <?php
-include_once "./base/about.php";
+include_once "./base/company.php";
 ?>
 
 <?php
