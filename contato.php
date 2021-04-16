@@ -36,15 +36,444 @@ body {
   margin: 0;
   padding: 0;
 }
+
+.lilogo{
+    padding-left:0px !important
+}
 </style>
 
+<!-- Contact Section three -->
+<section class="contact-section-three">
+        <div class="auto-container">
+            <div class="row clearfix">
+                
+
+                <!-- Form Column -->
+                <div class="form-column col-md-12 col-sm-12 col-xs-12">
+                <div class="inner-column">
+                        <div class="sec-title text-center">
+                            <h1>Fale conosco.</h1>
+                            <div class="text">&nbsp;</div>
+                        </div>
+                        <!--Contact Form-->
+                        <div class="contact-form style-three">
+                            <form>
+                                <div class="row clearfix">
+                                    <div class="left-column col-md-6 col-sm-6 col-xs-12">
+                                    <div class="form-group">
+                                            <label>Empresa</label>
+                                            <input type="text" name="username" value="" placeholder="Sua Empresa" required>
+                                        </div>
+
+                                        <div class="form-group">
+                                            <label>Nome</label>
+                                            <input type="text" name="username" value="" placeholder="Seu Nome" required>
+                                        </div>
+
+                                        <div class="form-group">
+                                            <label>Email</label>
+                                            <input type="email" name="email" value="" placeholder="Seu E-Mail" required>
+                                        </div>
+
+                                        <div class="form-group">
+                                            <label>Função</label>
+                                            <input type="text" name="subject" value="" placeholder="Sua Função" required>
+                                        </div>
+                                    </div>
+                                    <div class="column col-md-6 col-sm-6 col-xs-12">
+                                        <div class="form-group border-left">
+                                            <label>Mensagem</label>
+                                            <textarea name="message" placeholder="Sua Mensagem"></textarea>
+                                        </div>
+                                    </div>
+                                    <div class="column col-md-12 col-sm-6 col-xs-12">
+                                        <div class="form-group">
+                                            <button type="submit" class="theme-btn">Enviar</button>
+                                        </div>
+                                    </div>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="about-section-two col-md-12">
+    <div class="info-column col-md-3">
+    </div>
+
+    <div class="info-column col-md-3 col-sm-6 col-xs-12 ">
+                    <div class="branch-info-box">
+                        <div class="image-box">
+                            <div class="image"><a href="#"><img src="imgs/empresa/kuttner do brasil.jpg" alt=""></a></div>
+                        </div>
+                        <div class="lower-content">
+                            <ul>
+                                <li class="lilogo">
+                                    <img src="imgs/logo/logokdbmeio.png" alt="">
+                                </li>
+                                <li>
+                                    <span class="icon flaticon-place"></span>
+                                    <h5>R. Santiago Balesteiros, 610</h5>
+                                    <p>Cinco - Contagem, MG.</p>
+                                </li>
+
+                                <li>
+                                    <span class="icon flaticon-support"></span>
+                                    <h5>Contato</h5>
+                                    <p><a href="#">+55 31 3399-7200</a></p>
+                                </li>
+
+                                <li>
+                                    <span class="icon flaticon-plane"></span>
+                                    <h5>E-Mail</h5>
+                                    <p><a href="#">kuttner@kuttner.com.br</a></p>
+                                </li>
+                                <br>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                
+    <div class="info-column col-md-3 col-sm-6 col-xs-12 ">
+                    <div class="branch-info-box">
+                        <div class="image-box">
+                            <div class="image"><a href="#"><img src="imgs/empresa/knbs.jpg" alt=""></a></div>
+                        </div>
+                        <div class="lower-content">
+                            <ul>
+                            <li class="lilogo">
+
+                                    <img src="imgs/logo/kuttnernobakesolutionslogo.png" alt="">
+                                </li>
+                                <li>
+                                    <span class="icon flaticon-place"></span>
+                                    <h5>R. Abelardo Benedicto Libório, 951</h5>
+                                    <p>Piracicaba, SP.</p>
+                                </li>
+
+                                <li>
+                                    <span class="icon flaticon-support"></span>
+                                    <h5>Contato</h5>
+                                    <p><a href="#">+55 19 3302 4770</a></p>
+                                </li>
+
+                                <li>
+                                    <span class="icon flaticon-plane"></span>
+                                    <h5>E-Mail</h5>
+                                    <p><a href="#">info@kuttner-nbs.com.br</a></p>
+                                </li>
+                                <br>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+    </section>
+    <!--End Contact Section three -->
+    <section class="team-section">
+        <div class="auto-container">
+            <div class="sec-title text-center">
+                <h2>Nossa Equipe</h2>
+            </div>
+            <div class="row clearfix">
+                <!-- Team Block -->
+                <div class="team-block col-md-6 col-sm-6 col-xs-12">
+                    <div class="inner-box">
+                        <div class="lower-content">
+                            <div class="email"><a href="#"><span class="flaticon-email-1"></span></a></div>
+                            <h3 class="name">Gerente de Núcleo de Fundição e Serviços</h3>
+                            <span class="designation">Hilário Gonçalves de Araújo</span>
+                            <span class="designation">h.araujo@kuttner.com.br</span>
+                        </div>
+                    </div>
+                </div>
+                <!-- Team Block -->
+                <div class="team-block col-md-6 col-sm-6 col-xs-12">
+                    <div class="inner-box">
+                        <div class="lower-content">
+                            <div class="email"><a href="#"><span class="flaticon-email-1"></span></a></div>
+                            <h3 class="name">Gerência Núcleo de Manuseio e Processos</h3>
+                            <span class="designation">Andreas Maier</span>
+                            <span class="designation">manuseio@kuttner.com.br</span>
+                        </div>
+                    </div>
+                </div>
+                <!-- Team Block -->
+                <div class="team-block col-md-6 col-sm-6 col-xs-12">
+                    <div class="inner-box">
+                        <div class="lower-content">
+                            <div class="email"><a href="#"><span class="flaticon-email-1"></span></a></div>
+                            <h3 class="name">Gerência Núcleo de Siderurgia</h3>
+                            <span class="designation">Mário Lúcio Pinto</span>
+                            <span class="designation">siderurgia@kuttner.com.br</span>
+                        </div>
+                    </div>
+                </div>
+                <!-- Team Block -->
+                <div class="team-block col-md-6 col-sm-6 col-xs-12">
+                    <div class="inner-box">
+                        <div class="lower-content">
+                            <div class="email"><a href="#"><span class="flaticon-email-1"></span></a></div>
+                            <h3 class="name">Gerência Núcleo de Meio Ambiente e Energia</h3>
+                            <span class="designation">Reinaldo Patto</span>
+                            <span class="designation">meioambiente@kuttner.com.br</span>
+                        </div>
+                    </div>
+                </div>
+                <!-- Team Block -->
+                <div class="team-block col-md-6 col-sm-6 col-xs-12">
+                    <div class="inner-box">
+                        <div class="lower-content">
+                            <div class="email"><a href="#"><span class="flaticon-email-1"></span></a></div>
+                            <h3 class="name">Departamento de Recursos Humanos</h3>
+                            <span class="designation">Anderson Silva</span>
+                            <span class="designation">a.silva@kuttner.com.br</span>
+                        </div>
+                    </div>
+                </div>
+                <!-- Team Block -->
+                <div class="team-block col-md-6 col-sm-6 col-xs-12">
+                    <div class="inner-box">
+                        <div class="lower-content">
+                            <div class="email"><a href="#"><span class="flaticon-email-1"></span></a></div>
+                            <h3 class="name">Departamento de Suprimentos</h3>
+                            <span class="designation">Vagner Donisete Goulart</span>
+                            <span class="designation">v.donise@kuttner.com.br</span>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- Team Block -->
+                <div class="team-block col-md-6 col-sm-6 col-xs-12">
+                    <div class="inner-box">
+                        <div class="lower-content">
+                            <div class="email"><a href="#"><span class="flaticon-email-1"></span></a></div>
+                            <h3 class="name">Departamento Financeiro</h3>
+                            <span class="designation">Humberto Fernandes Pinto</span>
+                            <span class="designation">h.pinto@kuttner.com.br</span>
+                        </div>
+                    </div>
+                </div>
+
+                
+            </div>
+        </div>
+    </section>
+
+    <section class="contact-section-two">
+        <div class="auto-container">
+            <div class="sec-title">
+                <h2>Representantes Brasil</h2>
+            </div>
+            <div class="row clearfix">
+                <div class="carousel-column col-md-6 col-sm-12 col-xs-12">
+                    <div class="inner-column">
+                        <div class="branches-carousel owl-carousel owl-theme">
+                            <div class="slide">
+                                <div class="branch-info-box">
+                                    <div class="row clearfix">
+                                        <div class="info-column col-md-12 col-sm-12 col-xs-12">
+                                            <div class="lucation">CERP Representações Ltda</div>
+                                            <ul>
+                                                <li>
+                                                    <span class="icon flaticon-support"></span>
+                                                    <h5>Renato Pierri</h5>
+                                                    <p><a href="#">+55 11 5543 5700</a></p>
+                                                </li>
+                                                <li>
+                                                    <span class="icon flaticon-place"></span>
+                                                    <h5>Rua Álvaro Rodrigues, 182, sl 95/96</h5>
+                                                    <p>São Paulo - SP</p>
+                                                </li>
+
+
+                                                <li>
+                                                    <span class="icon flaticon-plane"></span>
+                                                    <h5>E-Mail</h5>
+                                                    <p><a href="#">renato.pierri@cerp.com.br</a></p>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="branch-info-box">
+                                    <div class="row clearfix">
+                                        <div class="info-column col-md-12 col-sm-12 col-xs-12">
+                                            <div class="lucation">Gebe Máquinas e Metais</div>
+                                            <ul>
+                                                <li>
+                                                    <span class="icon flaticon-support"></span>
+                                                    <h5>Gerd Brauer</h5>
+                                                    <p><a href="#">+55 41 3254 8471</a></p>
+                                                </li>
+                                                <li>
+                                                    <span class="icon flaticon-place"></span>
+                                                    <h5>Av. Cândido de Abreu, 427, 13º, 1306</h5>
+                                                    <p>Curitiba - PR</p>
+                                                </li>
+
+
+                                                <li>
+                                                    <span class="icon flaticon-plane"></span>
+                                                    <h5>E-Mail</h5>
+                                                    <p><a href="#">gebe@gebemaquinas.com.br</a></p>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="carousel-column col-md-6 col-sm-12 col-xs-12">
+                    <div class="inner-column">
+                        <div class="branches-carousel owl-carousel owl-theme">
+                            <div class="slide">
+                                <div class="branch-info-box">
+                                    <div class="row clearfix">
+                                        <div class="info-column col-md-12 col-sm-12 col-xs-12">
+                                            <div class="lucation">Paulo Furtado</div>
+                                            <ul>
+                                                <li>
+                                                    <span class="icon flaticon-support"></span>
+                                                    <p><a href="#">+55 91 99225-4673</a></p>
+                                                    <p><a href="#">+55 91 98864-2301</a></p>
+                                                </li>
+                                                <li>
+                                                    <span class="icon flaticon-place"></span>
+                                                    <h5>Rua 17 de Agosto, n. 162, Quadra 25, Residencial Carmelândia</h5>
+                                                    <p>Belém - PA</p>
+                                                </li>
+
+
+                                                <li>
+                                                    <span class="icon flaticon-plane"></span>
+                                                    <h5>E-Mail</h5>
+                                                    <p><a href="#">p.furtado@kuttner.com.br</a></p>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="branch-info-box">
+                                    <div class="row clearfix">
+                                        <div class="info-column col-md-12 col-sm-12 col-xs-12">
+                                            <div class="lucation">ETR Consultoria técnica e comercial Ltda</div>
+                                            <ul>
+                                                <li>
+                                                    <span class="icon flaticon-support"></span>
+                                                    <h5>Everardo T. dos Reis Filho</h5>
+                                                    <p><a href="#">+55 24 3342 5477/3348 3483</a></p>
+                                                </li>
+                                                <li>
+                                                    <span class="icon flaticon-place"></span>
+                                                    <h5>Rua 16, Nr. 109 - sala 309, Vila Santa Cecilia</h5>
+                                                    <p>Volta Redonda - RJ</p>
+                                                </li>
+
+
+                                                <li>
+                                                    <span class="icon flaticon-plane"></span>
+                                                    <h5>E-Mail</h5>
+                                                    <p><a href="#">etr_consultoria@uol.com.br</a></p>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+            </div>
+        </div>
+    </section>
+
+    <section class="contact-section-two">
+        <div class="auto-container">
+            <div class="sec-title">
+                <h2>Representantes América Latina</h2>
+            </div>
+            <div class="row clearfix">
+                <div class="carousel-column col-md-6 col-sm-12 col-xs-12">
+                    <div class="inner-column">
+                        <div class="branches-carousel owl-carousel owl-theme">
+                            <div class="slide">
+                                <div class="branch-info-box">
+                                    <div class="row clearfix">
+                                        <div class="info-column col-md-12 col-sm-12 col-xs-12">
+                                            <div class="lucation">Proteco Ltda</div>
+                                            <ul>
+                                                <li>
+                                                    <span class="icon flaticon-support"></span>
+                                                    <h5>Herbert Ramdohr</h5>
+                                                    <p><a href="#">+56 (2) 222 4526/222 4725</a></p>
+                                                </li>
+                                                <li>
+                                                    <span class="icon flaticon-place"></span>
+                                                    <h5>M.A. Tocornal 566, P.O. Box 10430</h5>
+                                                    <p>Santiago - Chile</p>
+                                                </li>
+
+
+                                                <li>
+                                                    <span class="icon flaticon-plane"></span>
+                                                    <h5>E-Mail</h5>
+                                                    <p><a href="#">info@proteco.cl</a></p>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="carousel-column col-md-6 col-sm-12 col-xs-12">
+                    <div class="inner-column">
+                        <div class="branches-carousel owl-carousel owl-theme">
+                        <div class="slide">
+                                <div class="branch-info-box">
+                                    <div class="row clearfix">
+                                        <div class="info-column col-md-12 col-sm-12 col-xs-12">
+                                            <div class="lucation">Bramund</div>
+                                            <ul>
+                                                <li>
+                                                    <span class="icon flaticon-support"></span>
+                                                    <h5>Alexandre Bortolini</h5>
+                                                    <p><a href="#">+52 1 81 1385 1908</a></p>
+                                                </li>
+                                                <li>
+                                                    <span class="icon flaticon-place"></span>
+                                                    <h5>Carretera Federal 57, El Marqués,</h5>
+                                                    <h5>Lateral Norte Km 201+100, Nave</h5>
+                                                    <p>Querétaro, México</p>
+                                                </li>
+
+
+                                                <li>
+                                                    <span class="icon flaticon-plane"></span>
+                                                    <h5>E-Mail</h5>
+                                                    <p><a href="#">alexandre@bramund.com</a></p>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+            </div>
+        </div>
+    </section>
     <!-- Contact Section Two -->
     <section class="">
         <div class="auto-container">
-            <div class="sec-title">
-                <h2>Contato</h2>
-                <div class="text">No mundo</div>
-            </div>
             <div class="row clearfix">
                 <div class="carousel-column col-md-7 col-sm-12 col-xs-12">
                     <div class="inner-column">
@@ -56,11 +485,11 @@ body {
             </div>
         </div>
         
-        <div class="">
+        <!-- <div class="">
             <div class="row">
                 <div id="map" class=" col-md-12 col-sm-12 col-xs-12"></div>
             </div>
-        </div>
+        </div> -->
     </section>
     <!--End Contact Section Two -->
 
@@ -238,120 +667,31 @@ let locais = {
             "email":"alexandre@bramund.com",
             "obs":""
         },
-       "essen":
-        {
-            "lat":"51.43929697848423",
-            "long":"7.002837849544674",
-            "content":"Essen Küttner GmbH & Co. KG",
-            "contato":"",
-            "rua":"Alfredstr",
-            "numero":"28",
-            "bairro":"",
-            "complemento":"",
-            "cep":"45130",
-            "cidade":"Essen",
-            "pais":"Alemanha",
-            "uf":"",
-            "tel1":"+49 201 7293 0",
-            "tel2":"+49 201 77 66 88",
-            "site":"www.kuettner.com/",
-            "email":"info@kuettner.de",
-            "obs":""
-        },
-       "automation":
-        {
-            "lat":"49.72789801701881",
-            "long":"6.61245802728426",
-            "content":"Otto-Brenner-Straße",
-            "contato":"",
-            "rua":"",
-            "numero":"3",
-            "bairro":"",
-            "complemento":"",
-            "cep":"54294",
-            "cidade":"Trier",
-            "pais":"Alemanha",
-            "uf":"",
-            "tel1":"+49 651 8251 0",
-            "tel2":"+49 651 8251 100",
-            "site":"www.kuettner-automation.com/",
-            "email":"info@kuettner-automation.de",
-            "obs":""
-        },
-       "wurz":
-        {
-            "lat":"51.27710521315324",
-            "long":"6.518378352077565",
-            "content":"WÜRZ GmbH",
-            "contato":"",
-            "rua":"Hanns-Martin-Schleyer-Str.",
-            "numero":"20a",
-            "bairro":"",
-            "complemento":"",
-            "cep":"47877 ",
-            "cidade":"Willich-Münchheide",
-            "pais":"Alemanha",
-           "uf":"",
-            "tel1":"+49 2154 4811-0",
-            "tel2":"+49 2154 4811-77",
-            "site":"www.wuerzreku.de/",
-            "email":"info@wuerzreku.de",
-            "obs":""
-        },
-       "sarl":
-        {
-            "lat":"48.40668627066248",
-            "long":"7.451483809777289",
-            "content":"Kuttner S.a.r.l.",
-            "contato":"",
-            "rua":"Rue du Jardins Barr",
-            "numero":"5",
-            "bairro":"",
-            "complemento":"",
-            "cep":"67140 ",
-            "cidade":"",
-            "pais":"França",
-           "uf":"",
-            "tel1":"+33 388 585500",
-            "tel2":"+33 388 084478",
-            "site":"",
-            "email":"kuttner@kuttner.fr",
-            "obs":""
-        },
-    //    "XXXX":
-    //     {
-    //         "lat":"XXXX",
-    //         "long":"XXXX",
-    //         "content":"XXXX",
-    //         "contato":"XXXX",
-    //         "rua":"XXXX",
-    //         "numero":"XXXX",
-    //         "bairro":"XXXX",
-    //         "complemento":"XXXX",
-    //         "cep":"XXXX",
-    //         "cidade":"XXXX",
-    //         "pais":"XXXX",
-    //        "uf":"XXXX",
-    //         "tel1":"XXXX",
-    //         "tel2":"XXXX",
-    //         "site":"XXXX",
-    //         "email":"XXXX",
-    //         "obs":"XXXX"
-    //     },
     
-    
+        
 }
 function initMap() {
   map = new google.maps.Map(document.getElementById("map"), {
-    center: { lat: 15.284146, lng: 9.6844468 },
+    center: { lat: -3.6172467297474125, lng: -73.81690658590544 },
     zoom: 3,
   });
 
 for(l in locais){
 
     const infowindow = new google.maps.InfoWindow({
-        content: locais[l].content,
+        content: `
+        <h3>${locais[l].content}</h3>
+        <h5>${locais[l].contato}</h5>
+        <h5>${locais[l].email}</h5>
+        <p>${locais[l].tel1}</p>
+        ${locais[l].rua}, 
+        ${locais[l].numero},
+        ${locais[l].bairro}</p>
+        <p>${locais[l].complemento}</p>
+        <p>${locais[l].cidade}, ${locais[l].uf}</p>
+        `
     });
+    
     var marker = new google.maps.Marker({
         position: new google.maps.LatLng(locais[l].lat,locais[l].long), // variável com as coordenadas Lat e Lng
         map: map

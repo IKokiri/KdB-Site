@@ -20,7 +20,9 @@
 .form-group ::placeholder{
     color:#CCC !important
 }
-
+.cliq{
+    text-align:"center"
+}
 </style>
 
 
@@ -75,7 +77,7 @@
                                     </div>
                                     <div class="column col-md-12 col-sm-6 col-xs-12">
                                         <div class="form-group">
-                                            <button type="submit" class="theme-btn">Registrar</button>
+                                            <button type="submit" class="theme-btn">Enviar</button>
                                         </div>
                                     </div>
                                 </div>
@@ -99,28 +101,40 @@
                 <div class="row clearfix">
                     <!--Footer Column-->
                     <div class="footer-column col-md-4 col-sm-6 col-xs-12">
-                        <div class="logo"><a href="index.php"><img src="imgs/logo/logob.png" alt=""></a></div>
-                        <div class="footer-widget subscribe-widget">
-                            <div class="widget-content">
-                                <div class="text">
-                                    <p style="color: #FFF !important;">Deseja receber as novidades da Kuttner do Brasil por e-mail?<span href="javascript:void(0)" data-toggle="modal" data-target="#exampleModal" style="cursor:pointer"> Clique aqui.</span></p>
- 
-                                </div>
-                            </div>
+                        <div class="footer-widget contact-widget">
+                            <div class="single-contact-widget">
+                                <div class="text-box">
+                                <img src="imgs/logo/logo.png" alt="" title=""><br/>&nbsp; <br/>&nbsp;
+                                </div><!-- /.text-box -->
+                            </div><!-- /.single-contact-widget -->
+                            <div class="single-contact-widget">
+                                <div class="text-box">
+                                    <p style="color: #444 !important;">Deseja receber as novidades da Kuttner do Brasil por e-mail?</p>
+                                   
+                                </div><!-- /.text-box -->
+                            </div><!-- /.single-contact-widget -->
+                            <div class="single-contact-widget">
+                                <div class="text-box">
+                                <span href="javascript:void(0)" data-toggle="modal" class="cliq" data-target="#exampleModal" style="cursor:pointer"> Clique aqui.</span>
+
+                                
+                                </div><!-- /.text-box -->
+
+                            </div><!-- /.single-contact-widget -->
                         </div>
-                    </div>
-                    
+                    </div> 
                     <!--Footer Column-->
                     <div class="footer-column col-md-4 col-sm-6 col-xs-12">
                         <div class="footer-widget links-widget">
                             <div class="widget-title"><h2>Atalhos</h2></div>
                             <div class="widget-content">
                                 <ul class="list clearfix">
-                                    <li><a style="color: #FFF !important;" href="about.html">Sobre Nós</a></li>
-                                    <li><a style="color: #FFF !important;" href="market-sector.html">Tecnologias</a></li>
-                                    <li><a style="color: #FFF !important;" href="projects.html">Notícias</a></li>
-                                    <li><a style="color: #FFF !important;" href="testimonial.html">Catálogos</a></li>
-                                    <li><a style="color: #FFF !important;" href="market-sector-single.html">Contato</a></li>
+                                    <li><a style="color: #FFF !important;" href="about.php">Sobre Nós</a></li>
+                                    <li><a style="color: #FFF !important;" href="docs\tecnologias\tecnologias.pdf">Tecnologias</a></li>
+                                    <li><a style="color: #FFF !important;" href="trabalhostecnicos.php">Trabalhos Técnicos</a></li>
+                                    <li><a style="color: #FFF !important;" href="news.php">Notícias</a></li>
+                                    <li><a style="color: #FFF !important;" href="catalogos.php">Catálogos</a></li>
+                                    <li><a style="color: #FFF !important;" href="contato.php">Contato</a></li>
                                 </ul>
                             </div>
                         </div>  
