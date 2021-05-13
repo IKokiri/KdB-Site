@@ -106,7 +106,7 @@ body {
     <div class="info-column col-md-3 col-sm-6 col-xs-12 ">
                     <div class="branch-info-box">
                         <div class="image-box">
-                            <div class="image"><a href="#"><img src="imgs/empresa/kuttner do brasil.jpg" alt=""></a></div>
+                            <div class="image"><a href="#"><img src="imgs/empresa/kuttner do brasil contato.jpg" alt=""></a></div>
                         </div>
                         <div class="lower-content">
                             <ul>
@@ -184,7 +184,7 @@ body {
                             <div class="email"><a href="#"><span class="flaticon-email-1"></span></a></div>
                             <h3 class="name">Gerente de Núcleo de Fundição e Serviços</h3>
                             <span class="designation">Hilário Gonçalves de Araújo</span>
-                            <span class="designation">h.araujo@kuttner.com.br</span>
+                            <span class="designation">fundicao@kuttner.com.br</span>
                         </div>
                     </div>
                 </div>
@@ -228,7 +228,7 @@ body {
                             <div class="email"><a href="#"><span class="flaticon-email-1"></span></a></div>
                             <h3 class="name">Departamento de Recursos Humanos</h3>
                             <span class="designation">Anderson Silva</span>
-                            <span class="designation">a.silva@kuttner.com.br</span>
+                            <span class="designation">rh@kuttner.com.br</span>
                         </div>
                     </div>
                 </div>
@@ -239,7 +239,7 @@ body {
                             <div class="email"><a href="#"><span class="flaticon-email-1"></span></a></div>
                             <h3 class="name">Departamento de Suprimentos</h3>
                             <span class="designation">Vagner Donisete Goulart</span>
-                            <span class="designation">v.donise@kuttner.com.br</span>
+                            <span class="designation">suprimentos@kuttner.com.br</span>
                         </div>
                     </div>
                 </div>
@@ -251,7 +251,7 @@ body {
                             <div class="email"><a href="#"><span class="flaticon-email-1"></span></a></div>
                             <h3 class="name">Departamento Financeiro</h3>
                             <span class="designation">Humberto Fernandes Pinto</span>
-                            <span class="designation">h.pinto@kuttner.com.br</span>
+                            <span class="designation">financeiro@kuttner.com.br</span>
                         </div>
                     </div>
                 </div>

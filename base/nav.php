@@ -54,7 +54,7 @@
                                         <li class="sublink"><a href="gestao.php">Gestão</a></li>
                                     </ul>
                                 </li>
-                                <li class="menutopo"><a href="docs\tecnologias\tecnologias.pdf" target="_blank">Tecnologias</a>
+                                <li class="menutopo"><a href="tecnologias.php" target="_blank">Tecnologias</a>
                                 </li>
                                 
                                 <li class="menutopo"><a href="trabalhostecnicos.php">Trabalhos Técnicos</a>
@@ -109,7 +109,7 @@
                                         <li class="sublink"><a href="gestao.php">Gestão</a></li>
                                     </ul>
                                 </li>
-                                <li class="menutopo"><a href="docs\tecnologias\tecnologias.pdf"  target="_blank">Tecnologias</a>
+                                <li class="menutopo"><a href="tecnologias.php"  target="_blank">Tecnologias</a>
                                 </li>
                                 <li class="menutopo"><a href="trabalhostecnicos.php">Trabalhos Técnicos</a>
                                 </li>

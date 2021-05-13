@@ -42,7 +42,7 @@ include_once "./base/banner.php";
                             </div>
                         </div>
                         <div class="lower-content">
-                            <div class="email"><a href="#"><span class="flaticon-email-1"></span></a></div>
+                            
                             <h3 class="name">Jörg E. Hagedorn</h3>
                             <span class="designation">Sócio-Diretor / Managing Partner - CEO</span>
                         </div>
@@ -64,7 +64,7 @@ include_once "./base/banner.php";
                             </div>
                         </div>
                         <div class="lower-content">
-                            <div class="email"><a href="#"><span class="flaticon-email-1"></span></a></div>
+                            
                             <h3 class="name">Wilbert Stoy</h3>
                             <span class="designation">Sócio-Diretor / Managing Partner - CTO</span>
                         </div>
@@ -86,7 +86,7 @@ include_once "./base/banner.php";
                             </div>
                         </div>
                         <div class="lower-content">
-                            <div class="email"><a href="#"><span class="flaticon-email-1"></span></a></div>
+                            
                             <h3 class="name">Joaquim Luiz Monteiro de Barros</h3>
                             <span class="designation">Sócio-Diretor / Managing Partner - CBDO</span>
                         </div>

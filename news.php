@@ -68,228 +68,9 @@ include_once "./base/banner.php";
                     </div>
                 </div>
 
-                <div class="filter-list row clearfix">
-                    <!-- Project Block -->
-                    <div class="project-block-two mix all power tecnologiaskuttner col-md-3 col-sm-6 col-xs-12">
-                        <div class="image-box">
-                            <figure><img src="imgs/catalogos/catalogo.png" alt=""></figure>
-                            <div class="overlay-box">
-                                <a href="docs/news/KUTTNERNEWS 17.pdf" class="lightbox-image" data-fancybox="Gallery"><span class="fa fa-search-plus"></span></a>
-                            </div>
-                        </div>
-                        <div class="content-box">
-                            <h4><span>Nº 17<br/>&nbsp;</span><br>
-                            <span class="tag">Kuttner News</span>
-                        </div>
-                    </div>
-                    <!-- Project Block -->
-                    <div class="project-block-two mix all power tecnologiaskuttner col-md-3 col-sm-6 col-xs-12">
-                        <div class="image-box">
-                            <figure><img src="imgs/catalogos/catalogo.png" alt=""></figure>
-                            <div class="overlay-box">
-                                <a href="docs/news/KUTTNERNEWS 16.pdf" class="lightbox-image" data-fancybox="Gallery"><span class="fa fa-search-plus"></span></a>
-                            </div>
-                        </div>
-                        <div class="content-box">
-                            <h4><span>Nº 16<br/>&nbsp;</span><br>
-                            <span class="tag">Kuttner News</span>
-                        </div>
-                    </div>
-                    <!-- Project Block -->
-                    <div class="project-block-two mix all power tecnologiaskuttner col-md-3 col-sm-6 col-xs-12">
-                        <div class="image-box">
-                            <figure><img src="imgs/catalogos/catalogo.png" alt=""></figure>
-                            <div class="overlay-box">
-                                <a href="docs/news/KUTTNERNEWS 15.pdf" class="lightbox-image" data-fancybox="Gallery"><span class="fa fa-search-plus"></span></a>
-                            </div>
-                        </div>
-                        <div class="content-box">
-                            <h4><span>Nº 15<br/>&nbsp;</span><br>
-                            <span class="tag">Kuttner News</span>
-                        </div>
-                    </div>
-                    <!-- Project Block -->
-                    <div class="project-block-two mix all power tecnologiaskuttner col-md-3 col-sm-6 col-xs-12">
-                        <div class="image-box">
-                            <figure><img src="imgs/catalogos/catalogo.png" alt=""></figure>
-                            <div class="overlay-box">
-                                <a href="docs/news/KUTTNERNEWS 14.pdf" class="lightbox-image" data-fancybox="Gallery"><span class="fa fa-search-plus"></span></a>
-                            </div>
-                        </div>
-                        <div class="content-box">
-                            <h4><span>Nº 14<br/>&nbsp;</span><br>
-                            <span class="tag">Kuttner News</span>
-                        </div>
-                    </div>
-                    <!-- Project Block -->
-                    <div class="project-block-two mix all power tecnologiaskuttner col-md-3 col-sm-6 col-xs-12">
-                        <div class="image-box">
-                            <figure><img src="imgs/catalogos/catalogo.png" alt=""></figure>
-                            <div class="overlay-box">
-                                <a href="docs/news/KUTTNERNEWS 13.pdf" class="lightbox-image" data-fancybox="Gallery"><span class="fa fa-search-plus"></span></a>
-                            </div>
-                        </div>
-                        <div class="content-box">
-                            <h4><span>Nº 13<br/>&nbsp;</span><br>
-                            <span class="tag">Kuttner News</span>
-                        </div>
-                    </div>
-                    <!-- Project Block -->
-                    <div class="project-block-two mix all power tecnologiaskuttner col-md-3 col-sm-6 col-xs-12">
-                        <div class="image-box">
-                            <figure><img src="imgs/catalogos/catalogo.png" alt=""></figure>
-                            <div class="overlay-box">
-                                <a href="docs/news/KUTTNERNEWS 12.pdf" class="lightbox-image" data-fancybox="Gallery"><span class="fa fa-search-plus"></span></a>
-                            </div>
-                        </div>
-                        <div class="content-box">
-                            <h4><span>Nº 12<br/>&nbsp;</span><br>
-                            <span class="tag">Kuttner News</span>
-                        </div>
-                    </div>
-                    <!-- Project Block -->
-                    <div class="project-block-two mix all power tecnologiaskuttner col-md-3 col-sm-6 col-xs-12">
-                        <div class="image-box">
-                            <figure><img src="imgs/catalogos/catalogo.png" alt=""></figure>
-                            <div class="overlay-box">
-                                <a href="docs/news/KUTTNERNEWS 11.pdf" class="lightbox-image" data-fancybox="Gallery"><span class="fa fa-search-plus"></span></a>
-                            </div>
-                        </div>
-                        <div class="content-box">
-                            <h4><span>Nº 11<br/>&nbsp;</span><br>
-                            <span class="tag">Kuttner News</span>
-                        </div>
-                    </div>
-                    <!-- Project Block -->
-                    <div class="project-block-two mix all power tecnologiaskuttner col-md-3 col-sm-6 col-xs-12">
-                        <div class="image-box">
-                            <figure><img src="imgs/catalogos/catalogo.png" alt=""></figure>
-                            <div class="overlay-box">
-                                <a href="docs/news/KUTTNERNEWS 10.pdf" class="lightbox-image" data-fancybox="Gallery"><span class="fa fa-search-plus"></span></a>
-                            </div>
-                        </div>
-                        <div class="content-box">
-                            <h4><span>Nº 10<br/>&nbsp;</span><br>
-                            <span class="tag">Kuttner News</span>
-                        </div>
-                    </div>
-                    <!-- Project Block -->
-                    <div class="project-block-two mix all power tecnologiaskuttner col-md-3 col-sm-6 col-xs-12">
-                        <div class="image-box">
-                            <figure><img src="imgs/catalogos/catalogo.png" alt=""></figure>
-                            <div class="overlay-box">
-                                <a href="docs/news/KUTTNERNEWS 09.pdf" class="lightbox-image" data-fancybox="Gallery"><span class="fa fa-search-plus"></span></a>
-                            </div>
-                        </div>
-                        <div class="content-box">
-                            <h4><span>Nº 09<br/>&nbsp;</span><br>
-                            <span class="tag">Kuttner News</span>
-                        </div>
-                    </div>
-                    <!-- Project Block -->
-                    <div class="project-block-two mix all power tecnologiaskuttner col-md-3 col-sm-6 col-xs-12">
-                        <div class="image-box">
-                            <figure><img src="imgs/catalogos/catalogo.png" alt=""></figure>
-                            <div class="overlay-box">
-                                <a href="docs/news/KUTTNERNEWS 08.pdf" class="lightbox-image" data-fancybox="Gallery"><span class="fa fa-search-plus"></span></a>
-                            </div>
-                        </div>
-                        <div class="content-box">
-                            <h4><span>Nº 08<br/>&nbsp;</span><br>
-                            <span class="tag">Kuttner News</span>
-                        </div>
-                    </div>
-                    <!-- Project Block -->
-                    <div class="project-block-two mix all power tecnologiaskuttner col-md-3 col-sm-6 col-xs-12">
-                        <div class="image-box">
-                            <figure><img src="imgs/catalogos/catalogo.png" alt=""></figure>
-                            <div class="overlay-box">
-                                <a href="docs/news/KUTTNERNEWS 07.pdf" class="lightbox-image" data-fancybox="Gallery"><span class="fa fa-search-plus"></span></a>
-                            </div>
-                        </div>
-                        <div class="content-box">
-                            <h4><span>Nº 07<br/>&nbsp;</span><br>
-                            <span class="tag">Kuttner News</span>
-                        </div>
-                    </div>
-                    <!-- Project Block -->
-                    <div class="project-block-two mix all power tecnologiaskuttner col-md-3 col-sm-6 col-xs-12">
-                        <div class="image-box">
-                            <figure><img src="imgs/catalogos/catalogo.png" alt=""></figure>
-                            <div class="overlay-box">
-                                <a href="docs/news/KUTTNERNEWS 06.pdf" class="lightbox-image" data-fancybox="Gallery"><span class="fa fa-search-plus"></span></a>
-                            </div>
-                        </div>
-                        <div class="content-box">
-                            <h4><span>Nº 06<br/>&nbsp;</span><br>
-                            <span class="tag">Kuttner News</span>
-                        </div>
-                    </div>
-                    <!-- Project Block -->
-                    <div class="project-block-two mix all power tecnologiaskuttner col-md-3 col-sm-6 col-xs-12">
-                        <div class="image-box">
-                            <figure><img src="imgs/catalogos/catalogo.png" alt=""></figure>
-                            <div class="overlay-box">
-                                <a href="docs/news/KUTTNERNEWS 05.pdf" class="lightbox-image" data-fancybox="Gallery"><span class="fa fa-search-plus"></span></a>
-                            </div>
-                        </div>
-                        <div class="content-box">
-                            <h4><span>Nº 05<br/>&nbsp;</span><br>
-                            <span class="tag">Kuttner News</span>
-                        </div>
-                    </div>
-                    <!-- Project Block -->
-                    <div class="project-block-two mix all power tecnologiaskuttner col-md-3 col-sm-6 col-xs-12">
-                        <div class="image-box">
-                            <figure><img src="imgs/catalogos/catalogo.png" alt=""></figure>
-                            <div class="overlay-box">
-                                <a href="docs/news/KUTTNERNEWS 04.pdf" class="lightbox-image" data-fancybox="Gallery"><span class="fa fa-search-plus"></span></a>
-                            </div>
-                        </div>
-                        <div class="content-box">
-                            <h4><span>Nº 04<br/>&nbsp;</span><br>
-                            <span class="tag">Kuttner News</span>
-                        </div>
-                    </div>
-                    <!-- Project Block -->
-                    <div class="project-block-two mix all power tecnologiaskuttner col-md-3 col-sm-6 col-xs-12">
-                        <div class="image-box">
-                            <figure><img src="imgs/catalogos/catalogo.png" alt=""></figure>
-                            <div class="overlay-box">
-                                <a href="docs/news/KUTTNERNEWS 03.pdf" class="lightbox-image" data-fancybox="Gallery"><span class="fa fa-search-plus"></span></a>
-                            </div>
-                        </div>
-                        <div class="content-box">
-                            <h4><span>Nº 03<br/>&nbsp;</span><br>
-                            <span class="tag">Kuttner News</span>
-                        </div>
-                    </div>
-                    <!-- Project Block -->
-                    <div class="project-block-two mix all power tecnologiaskuttner col-md-3 col-sm-6 col-xs-12">
-                        <div class="image-box">
-                            <figure><img src="imgs/catalogos/catalogo.png" alt=""></figure>
-                            <div class="overlay-box">
-                                <a href="docs/news/KUTTNERNEWS 02.pdf" class="lightbox-image" data-fancybox="Gallery"><span class="fa fa-search-plus"></span></a>
-                            </div>
-                        </div>
-                        <div class="content-box">
-                            <h4><span>Nº 02<br/>&nbsp;</span><br>
-                            <span class="tag">Kuttner News</span>
-                        </div>
-                    </div>
-                    <!-- Project Block -->
-                    <div class="project-block-two mix all power tecnologiaskuttner col-md-3 col-sm-6 col-xs-12">
-                        <div class="image-box">
-                            <figure><img src="imgs/catalogos/catalogo.png" alt=""></figure>
-                            <div class="overlay-box">
-                                <a href="docs/news/KUTTNERNEWS 01.pdf" class="lightbox-image" data-fancybox="Gallery"><span class="fa fa-search-plus"></span></a>
-                            </div>
-                        </div>
-                        <div class="content-box">
-                            <h4><span>Nº 01<br/>&nbsp;</span><br>
-                            <span class="tag">Kuttner News</span>
-                        </div>
-                    </div>
+                <div class="filter-list row clearfix" id="list-news">
+                    
+                   
 
 
                 </div>
@@ -298,7 +79,131 @@ include_once "./base/banner.php";
         </div>
     </section>
 
+    <script>
+    var news = [
+            {
+              "tag":"Kuttner News",  
+              "numero":"Nº 17",  
+              "arquivo":"docs/news/KUTTNERNEWS 17.pdf",  
+              "imagem":"imgs/catalogos/catalogo.png",  
+            },
+            {
+              "tag":"Kuttner News",  
+              "numero":"Nº 16",  
+              "arquivo":"docs/news/KUTTNERNEWS 16.pdf",  
+              "imagem":"imgs/catalogos/catalogo.png",  
+            },
+            {
+              "tag":"Kuttner News",  
+              "numero":"Nº 15",  
+              "arquivo":"docs/news/KUTTNERNEWS 15.pdf",  
+              "imagem":"imgs/catalogos/catalogo.png",  
+            },
+            {
+              "tag":"Kuttner News",  
+              "numero":"Nº 14",  
+              "arquivo":"docs/news/KUTTNERNEWS 14.pdf",  
+              "imagem":"imgs/catalogos/catalogo.png",  
+            },
+            {
+              "tag":"Kuttner News",  
+              "numero":"Nº 13",  
+              "arquivo":"docs/news/KUTTNERNEWS 13.pdf",  
+              "imagem":"imgs/catalogos/catalogo.png",  
+            },
+            {
+              "tag":"Kuttner News",  
+              "numero":"Nº 12",  
+              "arquivo":"docs/news/KUTTNERNEWS 12.pdf",  
+              "imagem":"imgs/catalogos/catalogo.png",  
+            },
+            {
+              "tag":"Kuttner News",  
+              "numero":"Nº 11",  
+              "arquivo":"docs/news/KUTTNERNEWS 11.pdf",  
+              "imagem":"imgs/catalogos/catalogo.png",  
+            },
+            {
+              "tag":"Kuttner News",  
+              "numero":"Nº 10",  
+              "arquivo":"docs/news/KUTTNERNEWS 10.pdf",  
+              "imagem":"imgs/catalogos/catalogo.png",  
+            },
+            {
+              "tag":"Kuttner News",  
+              "numero":"Nº 09",  
+              "arquivo":"docs/news/KUTTNERNEWS 09.pdf",  
+              "imagem":"imgs/catalogos/catalogo.png",  
+            },
+            {
+              "tag":"Kuttner News",  
+              "numero":"Nº 08",  
+              "arquivo":"docs/news/KUTTNERNEWS 08.pdf",  
+              "imagem":"imgs/catalogos/catalogo.png",  
+            },
+            {
+              "tag":"Kuttner News",  
+              "numero":"Nº 07",  
+              "arquivo":"docs/news/KUTTNERNEWS 07.pdf",  
+              "imagem":"imgs/catalogos/catalogo.png",  
+            },
+            {
+              "tag":"Kuttner News",  
+              "numero":"Nº 06",  
+              "arquivo":"docs/news/KUTTNERNEWS 06.pdf",  
+              "imagem":"imgs/catalogos/catalogo.png",  
+            },
+            {
+              "tag":"Kuttner News",  
+              "numero":"Nº 05",  
+              "arquivo":"docs/news/KUTTNERNEWS 05.pdf",  
+              "imagem":"imgs/catalogos/catalogo.png",  
+            },
+            {
+              "tag":"Kuttner News",  
+              "numero":"Nº 04",  
+              "arquivo":"docs/news/KUTTNERNEWS 04.pdf",  
+              "imagem":"imgs/catalogos/catalogo.png",  
+            },
+            {
+              "tag":"Kuttner News",  
+              "numero":"Nº 03",  
+              "arquivo":"docs/news/KUTTNERNEWS 03.pdf",  
+              "imagem":"imgs/catalogos/catalogo.png",  
+            },
+            {
+              "tag":"Kuttner News",  
+              "numero":"Nº 02",  
+              "arquivo":"docs/news/KUTTNERNEWS 02.pdf",  
+              "imagem":"imgs/catalogos/catalogo.png",  
+            },
+            {
+              "tag":"Kuttner News",  
+              "numero":"Nº 01",  
+              "arquivo":"docs/news/KUTTNERNEWS 01.pdf",  
+              "imagem":"imgs/catalogos/catalogo.png",  
+            },
+        ]
+            
+            novidades = ""
+            for(i in news){
+                novidades += `<div class="project-block-two mix all power tecnologiaskuttner col-md-3 col-sm-6 col-xs-12">
+                        <div class="image-box">
+                            <figure><img src="${news[i].imagem}" alt=""></figure>
+                            <div class="overlay-box">
+                                <a href="${news[i].arquivo}" class="lightbox-image" data-fancybox="Gallery"><span class="fa fa-search-plus"></span></a>
+                            </div>
+                        </div>
+                        <div class="content-box">
+                            <h4><span>${news[i].numero}<br/>&nbsp;</span><br>
+                            <span class="tag">${news[i].tag}</span>
+                        </div>
+                    </div>`
+            }
+
+            document.querySelector("#list-news").innerHTML = novidades
     
+    </script>
 <?php
 include_once "./base/bootom.php";
 ?>
